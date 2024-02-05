@@ -43,4 +43,5 @@ values = [
     value("RELEASE_AIDL_USE_UNFROZEN", False),
     value("RELEASE_DEFAULT_MODULE_BUILD_FROM_SOURCE", False),
     value("RELEASE_EXPOSE_FLAGGED_API", True),
+    value("RELEASE_DEPRECATE_VNDK", True),
 ] + platform_version_flags
