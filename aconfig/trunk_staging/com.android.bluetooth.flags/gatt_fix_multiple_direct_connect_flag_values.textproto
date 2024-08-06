@@ -1,6 +1,6 @@
 flag_value {
   package: "com.android.bluetooth.flags"
-  name: "channel_sounding_in_stack"
+  name: "gatt_fix_multiple_direct_connect"
   state: ENABLED
   permission: READ_WRITE
 }

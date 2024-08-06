@@ -1,6 +1,6 @@
 flag_value {
   package: "com.android.systemui"
-  name: "dozeui_scheduling_alarms_background_execution"
+  name: "enable_efficient_display_repository"
   state: ENABLED
   permission: READ_WRITE
 }
