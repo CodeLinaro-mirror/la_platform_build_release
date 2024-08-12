@@ -1,6 +1,6 @@
 flag_value {
   package: "com.android.wifi.flags"
-  name: "delayed_carrier_network_selection"
+  name: "voip_detection_bugfix"
   state: ENABLED
   permission: READ_ONLY
 }
