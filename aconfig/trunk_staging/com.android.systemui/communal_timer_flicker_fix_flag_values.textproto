@@ -1,6 +1,6 @@
 flag_value {
   package: "com.android.systemui"
-  name: "glanceable_hub_back_gesture"
+  name: "communal_timer_flicker_fix"
   state: ENABLED
   permission: READ_WRITE
 }
