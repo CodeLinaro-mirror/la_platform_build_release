@@ -1,6 +1,6 @@
 flag_value {
   package: "com.android.systemui"
-  name: "media_load_metadata_via_media_data_loader"
+  name: "smartspace_remoteviews_rendering"
   state: ENABLED
   permission: READ_WRITE
 }

@@ -1,6 +1,6 @@
 flag_value {
-  package: "android.nfc"
-  name: "nfc_event_listener"
+  package: "android.app"
+  name: "modes_ui_icons"
   state: ENABLED
   permission: READ_WRITE
 }
