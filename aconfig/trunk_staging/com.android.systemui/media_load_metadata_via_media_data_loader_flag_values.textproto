@@ -1,6 +1,6 @@
 flag_value {
   package: "com.android.systemui"
-  name: "notifications_background_icons"
+  name: "media_load_metadata_via_media_data_loader"
   state: ENABLED
   permission: READ_WRITE
 }
