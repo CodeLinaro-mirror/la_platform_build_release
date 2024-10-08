@@ -39,6 +39,7 @@ aconfig_value_set {
         "aconfig-values-platform_build_release-trunk_staging-android.car.feature-all",
         "aconfig-values-platform_build_release-trunk_staging-com.android.server.usage-all",
         "aconfig-values-platform_build_release-trunk_staging-android.security.flag-all",
+        "aconfig-values-platform_build_release-trunk_staging-android.app.supervision.flags-all",
         "aconfig-values-platform_build_release-trunk_staging-com.android.media.aaudio-all",
         "aconfig-values-platform_build_release-trunk_staging-com.android.server.feature.flags-all",
         "aconfig-values-platform_build_release-trunk_staging-com.android.internal.pm.pkg.component.flags-all",
