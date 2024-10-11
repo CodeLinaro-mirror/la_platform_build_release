@@ -61,7 +61,6 @@ aconfig_value_set {
         "aconfig-values-platform_build_release-ap4a-com.android.nfc.nci.flags-all",
         "aconfig-values-platform_build_release-ap4a-android.provider.flags-all",
         "aconfig-values-platform_build_release-ap4a-com.android.adservices.ondevicepersonalization.flags-all",
-        "aconfig-values-platform_build_release-ap4a-libgooglecamerahal.flags-all",
         "aconfig-values-platform_build_release-ap4a-com.android.frameworks.sensorservice.flags-all",
         "aconfig-values-platform_build_release-ap4a-com.android.settings.media_drm-all",
         "aconfig-values-platform_build_release-ap4a-com.android.hardware.input-all",
