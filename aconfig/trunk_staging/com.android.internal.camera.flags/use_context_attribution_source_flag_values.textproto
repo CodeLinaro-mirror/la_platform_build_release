@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.internal.camera.flags"
+  name: "use_context_attribution_source"
+  state: ENABLED
+  permission: READ_WRITE
+}

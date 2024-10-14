@@ -1,6 +1,6 @@
 flag_value {
   package: "libgooglecamerahal.flags"
-  name: "zsl_video_denoise_in_hwl"
+  name: "disable_capture_request_timeout"
   state: ENABLED
   permission: READ_WRITE
 }
