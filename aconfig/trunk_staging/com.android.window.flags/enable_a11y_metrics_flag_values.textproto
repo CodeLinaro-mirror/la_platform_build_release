@@ -1,6 +1,6 @@
 flag_value {
   package: "com.android.window.flags"
-  name: "skip_compat_ui_education_in_desktop_mode"
+  name: "enable_a11y_metrics"
   state: ENABLED
   permission: READ_WRITE
 }

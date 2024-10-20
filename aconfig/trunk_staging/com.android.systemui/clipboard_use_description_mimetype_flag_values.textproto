@@ -1,6 +1,6 @@
 flag_value {
   package: "com.android.systemui"
-  name: "expand_heads_up_on_inline_reply"
+  name: "clipboard_use_description_mimetype"
   state: ENABLED
   permission: READ_WRITE
 }

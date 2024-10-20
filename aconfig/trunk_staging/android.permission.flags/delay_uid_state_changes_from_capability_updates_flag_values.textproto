@@ -1,6 +1,0 @@
-flag_value {
-  package: "android.permission.flags"
-  name: "delay_uid_state_changes_from_capability_updates"
-  state: ENABLED
-  permission: READ_ONLY
-}
