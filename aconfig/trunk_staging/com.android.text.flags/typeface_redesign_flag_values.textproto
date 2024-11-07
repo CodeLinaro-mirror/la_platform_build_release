@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.text.flags"
+  name: "typeface_redesign"
+  state: ENABLED
+  permission: READ_WRITE
+}

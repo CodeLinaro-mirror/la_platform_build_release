@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "ensure_enr_views_visibility"
+  state: ENABLED
+  permission: READ_WRITE
+}
