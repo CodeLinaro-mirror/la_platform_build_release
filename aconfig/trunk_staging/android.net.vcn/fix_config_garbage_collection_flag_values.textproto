@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.net.vcn"
+  name: "fix_config_garbage_collection"
+  state: ENABLED
+  permission: READ_WRITE
+}
