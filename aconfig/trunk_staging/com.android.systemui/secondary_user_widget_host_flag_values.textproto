@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "secondary_user_widget_host"
+  state: ENABLED
+  permission: READ_WRITE
+}
