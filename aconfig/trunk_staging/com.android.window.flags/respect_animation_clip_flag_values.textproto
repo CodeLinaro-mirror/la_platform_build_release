@@ -1,6 +1,6 @@
 flag_value {
   package: "com.android.window.flags"
-  name: "bal_strict_mode"
+  name: "respect_animation_clip"
   state: ENABLED
-  permission: READ_WRITE
+  permission: READ_ONLY
 }

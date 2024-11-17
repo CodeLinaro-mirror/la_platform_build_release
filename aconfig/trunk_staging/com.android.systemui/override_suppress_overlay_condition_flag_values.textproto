@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "override_suppress_overlay_condition"
+  state: ENABLED
+  permission: READ_WRITE
+}
