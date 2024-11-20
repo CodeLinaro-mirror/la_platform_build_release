@@ -1,0 +1,16 @@
+{
+  "imports": [
+    {
+      "path": "frameworks/base/packages/SystemUI"
+    },
+    {
+      "path": "frameworks/base/libs/WindowManager/Shell"
+    },
+    {
+      "path": "packages/apps/Launcher3"
+    },
+    {
+      "path": "vendor/unbundled_google/packages/NexusLauncher"
+    }
+  ]
+}
