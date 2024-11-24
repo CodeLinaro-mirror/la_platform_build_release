@@ -1,6 +1,0 @@
-flag_value {
-  package: "com.android.providers.downloads.flags"
-  name: "download_via_platform_http_engine"
-  state: ENABLED
-  permission: READ_WRITE
-}
