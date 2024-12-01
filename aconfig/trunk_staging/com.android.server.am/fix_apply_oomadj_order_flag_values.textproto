@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.server.am"
+  name: "fix_apply_oomadj_order"
+  state: ENABLED
+  permission: READ_ONLY
+}
