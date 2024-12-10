@@ -111,7 +111,6 @@ aconfig_value_set {
         "aconfig-values-platform_build_release-ap4a-com.android.settingslib.widget.flags-all",
         "aconfig-values-platform_build_release-ap4a-com.android.graphics.hwui.flags-all",
         "aconfig-values-platform_build_release-ap4a-com.android.graphics.bufferstreams.flags-all",
-        "aconfig-values-platform_build_release-ap4a-com.android.aconfig.test-all",
         "aconfig-values-platform_build_release-ap4a-com.android.systemui.shared-all",
         "aconfig-values-platform_build_release-ap4a-com.android.graphics.surfaceflinger.flags-all",
         "aconfig-values-platform_build_release-ap4a-android.credentials.flags-all",
