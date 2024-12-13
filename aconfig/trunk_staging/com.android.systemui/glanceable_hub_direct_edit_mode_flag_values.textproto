@@ -1,6 +1,6 @@
 flag_value {
   package: "com.android.systemui"
-  name: "screenshot_multidisplay_focus_change"
+  name: "glanceable_hub_direct_edit_mode"
   state: ENABLED
   permission: READ_WRITE
 }
