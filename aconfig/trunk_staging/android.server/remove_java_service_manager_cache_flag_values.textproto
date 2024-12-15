@@ -1,6 +1,0 @@
-flag_value {
-  package: "android.server"
-  name: "remove_java_service_manager_cache"
-  state: ENABLED
-  permission: READ_ONLY
-}
