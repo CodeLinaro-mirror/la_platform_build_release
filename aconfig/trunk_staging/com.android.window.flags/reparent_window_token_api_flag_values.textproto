@@ -1,6 +1,6 @@
 flag_value {
   package: "com.android.window.flags"
-  name: "scrolling_from_letterbox"
+  name: "reparent_window_token_api"
   state: ENABLED
-  permission: READ_WRITE
+  permission: READ_ONLY
 }

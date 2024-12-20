@@ -1,6 +1,6 @@
 flag_value {
   package: "android.car.feature"
-  name: "car_property_supported_value"
+  name: "android_b_vehicle_properties"
   state: ENABLED
   permission: READ_WRITE
 }

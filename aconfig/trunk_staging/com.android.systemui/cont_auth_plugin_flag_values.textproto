@@ -1,6 +1,6 @@
 flag_value {
   package: "com.android.systemui"
-  name: "screenshot_multidisplay_focus_change"
+  name: "cont_auth_plugin"
   state: ENABLED
   permission: READ_WRITE
 }
