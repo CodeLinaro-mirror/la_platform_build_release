@@ -31,6 +31,7 @@ per-file aconfig/*/*,aconfig/*/*/*=tejaswiy@google.com
 
 per-file {flag_declarations,flag_values/*}/RELEASE_PLATFORM_BASE_SDK_EXTENSION_VERSION.textproto = file:platform/frameworks/base:/SDK_OWNERS # Android SDK
 per-file {flag_declarations,flag_values/*}/RELEASE_PLATFORM_SDK_EXTENSION_VERSION.textproto = file:platform/frameworks/base:/SDK_OWNERS # Android SDK
+per-file {flag_declarations,flag_values/*}/RELEASE_PLATFORM_SDK_VERSION_FULL.textproto = file:platform/frameworks/base:/SDK_OWNERS # Android SDK
 per-file {flag_declarations,flag_values/*}/RELEASE_PLATFORM_SDK_VERSION.textproto = file:platform/frameworks/base:/SDK_OWNERS # Android SDK
 per-file {flag_declarations,flag_values/*}/RELEASE_PLATFORM_VERSION_ALL_CODENAMES.textproto = file:platform/frameworks/base:/SDK_OWNERS # Android SDK
 per-file {flag_declarations,flag_values/*}/RELEASE_PLATFORM_VERSION_ALL_PREVIEW_CODENAMES.textproto = file:platform/frameworks/base:/SDK_OWNERS # Android SDK

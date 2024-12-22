@@ -1,6 +1,0 @@
-flag_value {
-  package: "com.android.server.am"
-  name: "expedite_activity_launch_on_cold_start"
-  state: ENABLED
-  permission: READ_WRITE
-}
