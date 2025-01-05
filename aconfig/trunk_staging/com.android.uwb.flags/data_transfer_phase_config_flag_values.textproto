@@ -2,5 +2,5 @@ flag_value {
   package: "com.android.uwb.flags"
   name: "data_transfer_phase_config"
   state: ENABLED
-  permission: READ_ONLY
+  permission: READ_WRITE
 }
