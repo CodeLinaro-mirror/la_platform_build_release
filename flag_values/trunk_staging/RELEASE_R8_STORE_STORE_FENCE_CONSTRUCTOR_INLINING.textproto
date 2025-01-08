@@ -1,4 +1,0 @@
-name: "RELEASE_R8_STORE_STORE_FENCE_CONSTRUCTOR_INLINING"
-value: {
-  bool_value: true
-}
