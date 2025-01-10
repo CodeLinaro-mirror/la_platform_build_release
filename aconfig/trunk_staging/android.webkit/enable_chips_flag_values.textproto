@@ -1,6 +1,6 @@
 flag_value {
-  package: "com.android.systemui"
-  name: "qs_new_tiles"
+  package: "android.webkit"
+  name: "enable_chips"
   state: ENABLED
   permission: READ_WRITE
 }

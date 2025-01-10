@@ -1,6 +1,6 @@
 flag_value {
   package: "com.android.systemui"
-  name: "keyguard_wm_state_refactor"
+  name: "promote_notifications_automatically"
   state: ENABLED
   permission: READ_WRITE
 }

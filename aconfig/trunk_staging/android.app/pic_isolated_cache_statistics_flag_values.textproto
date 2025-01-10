@@ -1,6 +1,0 @@
-flag_value {
-  package: "android.app"
-  name: "pic_isolated_cache_statistics"
-  state: ENABLED
-  permission: READ_ONLY
-}

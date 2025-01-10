@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.window.flags"
+  name: "ignore_corner_radius_and_shadows"
+  state: ENABLED
+  permission: READ_ONLY
+}
