@@ -1,6 +1,6 @@
 flag_value {
   package: "com.android.systemui"
-  name: "media_controls_button_media3"
+  name: "promote_notifications_automatically"
   state: ENABLED
   permission: READ_WRITE
 }

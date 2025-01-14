@@ -1,6 +1,6 @@
 flag_value {
   package: "com.android.appsearch.flags"
-  name: "enable_delete_propagation_type"
+  name: "enable_app_functions_schema_parser"
   state: ENABLED
   permission: READ_ONLY
 }
