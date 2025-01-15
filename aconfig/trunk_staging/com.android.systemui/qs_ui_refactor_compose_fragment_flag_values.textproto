@@ -1,6 +1,6 @@
 flag_value {
   package: "com.android.systemui"
-  name: "media_controls_button_media3"
+  name: "qs_ui_refactor_compose_fragment"
   state: ENABLED
   permission: READ_WRITE
 }

@@ -1,6 +1,0 @@
-flag_value {
-  package: "android.webkit"
-  name: "use_b_entry_point"
-  state: ENABLED
-  permission: READ_ONLY
-}

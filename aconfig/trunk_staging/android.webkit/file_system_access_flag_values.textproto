@@ -1,6 +1,6 @@
 flag_value {
   package: "android.webkit"
-  name: "enable_chips"
+  name: "file_system_access"
   state: ENABLED
   permission: READ_WRITE
 }
