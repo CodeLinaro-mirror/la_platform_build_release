@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.view.contentcapture.flags"
+  name: "post_create_android_bg_thread"
+  state: ENABLED
+  permission: READ_ONLY
+}
