@@ -1,6 +1,6 @@
 flag_value {
   package: "android.permission.flags"
-  name: "device_aware_app_op_new_schema_enabled"
+  name: "rate_limit_batched_note_op_async_callbacks_enabled"
   state: ENABLED
   permission: READ_ONLY
 }
