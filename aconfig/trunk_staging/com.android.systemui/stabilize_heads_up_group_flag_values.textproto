@@ -1,6 +1,0 @@
-flag_value {
-  package: "com.android.systemui"
-  name: "stabilize_heads_up_group"
-  state: ENABLED
-  permission: READ_WRITE
-}

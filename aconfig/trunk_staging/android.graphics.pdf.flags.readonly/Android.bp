@@ -13,8 +13,8 @@
 // limitations under the License.
 
 aconfig_values {
-    name: "aconfig-values-platform_build_release-trunk_staging-android.graphics.pdf.flags-all",
-    package: "android.graphics.pdf.flags",
+    name: "aconfig-values-platform_build_release-trunk_staging-android.graphics.pdf.flags.readonly-all",
+    package: "android.graphics.pdf.flags.readonly",
     srcs: [
         "*_flag_values.textproto",
     ],
