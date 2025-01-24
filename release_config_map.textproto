@@ -1,7 +1,3 @@
-aliases: {
-  name: "aosp_current"
-  target: "ap4a"
-}
 default_containers: "product"
 default_containers: "system"
 default_containers: "system_ext"

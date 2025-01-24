@@ -1,6 +1,0 @@
-flag_value {
-  package: "android.security"
-  name: "prevent_intent_redirect_throw_exception_if_nested_keys_not_collected"
-  state: ENABLED
-  permission: READ_WRITE
-}
