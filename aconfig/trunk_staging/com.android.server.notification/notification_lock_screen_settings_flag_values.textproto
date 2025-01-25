@@ -1,6 +1,6 @@
 flag_value {
   package: "com.android.server.notification"
-  name: "notification_vibration_in_sound_uri"
+  name: "notification_lock_screen_settings"
   state: ENABLED
-  permission: READ_ONLY
+  permission: READ_WRITE
 }
