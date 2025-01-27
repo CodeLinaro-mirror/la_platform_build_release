@@ -1,4 +1,0 @@
-name: "RELEASE_USE_SHARDED_JARJAR_ON_FRAMEWORK_MINUS_APEX"
-value: {
-  bool_value: true
-}
