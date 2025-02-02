@@ -16,6 +16,7 @@ aconfig_value_set {
     name: "aconfig_value_set-platform_build_release_automotive-trunk_staging",
     values: [
         "aconfig-values-platform_build_release_automotive-trunk_staging-android.car.feature-all",
+        "aconfig-values-platform_build_release_automotive-trunk_staging-com.android.car.carlauncher-all",
         "aconfig-values-platform_build_release_automotive-trunk_staging-com.android.systemui.car-all",
     ],
 }
