@@ -2,5 +2,5 @@ flag_value {
   package: "com.android.systemui.car"
   name: "display_compatibility_caption_bar"
   state: ENABLED
-  permission: READ_ONLY
+  permission: READ_WRITE
 }
