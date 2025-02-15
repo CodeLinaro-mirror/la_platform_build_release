@@ -1,6 +1,6 @@
 flag_value {
   package: "com.android.systemui"
-  name: "glanceable_hub_blurred_background"
+  name: "expand_collapse_privacy_dialog"
   state: ENABLED
   permission: READ_WRITE
 }
