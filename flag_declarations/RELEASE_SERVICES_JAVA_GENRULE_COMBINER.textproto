@@ -1,0 +1,8 @@
+name: "RELEASE_SERVICES_JAVA_GENRULE_COMBINER"
+namespace: "android_UNKNOWN"
+description: "Whether to use services.core.combined when building services.core"
+workflow: MANUAL
+containers: "product"
+containers: "system"
+containers: "system_ext"
+containers: "vendor"

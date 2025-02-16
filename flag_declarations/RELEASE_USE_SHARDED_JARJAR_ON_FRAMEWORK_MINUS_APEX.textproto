@@ -1,5 +1,0 @@
-name: "RELEASE_USE_SHARDED_JARJAR_ON_FRAMEWORK_MINUS_APEX"
-namespace: "android_UNKNOWN"
-description: "Enabled sharded jarjar on framework-minus-apex"
-workflow: LAUNCH
-containers: "system"
