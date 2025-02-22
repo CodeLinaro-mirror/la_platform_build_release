@@ -1,6 +1,6 @@
 flag_value {
   package: "com.android.window.flags"
-  name: "reduce_changed_exclusion_rects_msgs"
+  name: "cache_window_style"
   state: ENABLED
   permission: READ_ONLY
 }
