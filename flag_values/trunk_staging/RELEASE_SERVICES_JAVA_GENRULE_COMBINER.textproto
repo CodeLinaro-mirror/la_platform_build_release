@@ -1,4 +1,0 @@
-name: "RELEASE_SERVICES_JAVA_GENRULE_COMBINER"
-value: {
-  bool_value: true
-}
