@@ -1,6 +1,6 @@
 flag_value {
   package: "com.android.systemui"
-  name: "glanceable_hub_back_action"
+  name: "shade_window_goes_around"
   state: ENABLED
   permission: READ_WRITE
 }
