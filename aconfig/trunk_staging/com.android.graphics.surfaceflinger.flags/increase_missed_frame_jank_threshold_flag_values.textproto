@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.graphics.surfaceflinger.flags"
+  name: "increase_missed_frame_jank_threshold"
+  state: ENABLED
+  permission: READ_WRITE
+}
