@@ -1,6 +1,6 @@
 flag_value {
   package: "com.android.window.flags"
-  name: "aod_transition"
+  name: "early_launch_hint"
   state: ENABLED
-  permission: READ_WRITE
+  permission: READ_ONLY
 }
