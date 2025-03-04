@@ -1,6 +1,0 @@
-flag_value {
-  package: "android.app.contextualsearch.flags"
-  name: "report_secure_surfaces_in_assist_structure"
-  state: ENABLED
-  permission: READ_WRITE
-}
