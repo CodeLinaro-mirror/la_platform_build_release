@@ -1,6 +1,6 @@
 flag_value {
   package: "android.content.pm"
-  name: "optimize_parsing_in_registered_services_cache"
+  name: "cloud_compilation_verification"
   state: ENABLED
   permission: READ_ONLY
 }
