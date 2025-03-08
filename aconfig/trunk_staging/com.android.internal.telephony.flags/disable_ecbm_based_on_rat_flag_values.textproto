@@ -1,6 +1,6 @@
 flag_value {
   package: "com.android.internal.telephony.flags"
-  name: "thread_shred"
+  name: "disable_ecbm_based_on_rat"
   state: ENABLED
   permission: READ_WRITE
 }

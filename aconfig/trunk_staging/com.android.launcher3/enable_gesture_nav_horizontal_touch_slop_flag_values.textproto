@@ -1,6 +1,6 @@
 flag_value {
   package: "com.android.launcher3"
-  name: "enable_overview_icon_menu"
+  name: "enable_gesture_nav_horizontal_touch_slop"
   state: ENABLED
   permission: READ_WRITE
 }

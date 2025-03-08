@@ -1,6 +1,6 @@
 flag_value {
   package: "com.android.internal.telephony.flags"
-  name: "data_service_check"
+  name: "hangup_active_call_based_on_emergency_call_domain"
   state: ENABLED
   permission: READ_WRITE
 }
