@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.media.audioserver"
+  name: "fix_aaudio_stream_reopen_in_libaudiohal_aidl"
+  state: ENABLED
+  permission: READ_WRITE
+}

@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "ui_rich_ongoing_force_expanded"
+  state: ENABLED
+  permission: READ_WRITE
+}
