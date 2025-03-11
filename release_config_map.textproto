@@ -1,3 +1,7 @@
+aliases: {
+  name: "aosp_current"
+  target: "bp1a"
+}
 default_containers: "product"
 default_containers: "system"
 default_containers: "system_ext"
