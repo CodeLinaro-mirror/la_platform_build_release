@@ -1,6 +1,6 @@
 flag_value {
   package: "com.android.launcher3"
-  name: "enable_recents_window_proto_log"
+  name: "enable_show_enabled_shortcuts_in_accessibility_menu"
   state: ENABLED
   permission: READ_WRITE
 }
