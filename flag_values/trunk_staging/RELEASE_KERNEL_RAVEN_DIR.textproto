@@ -1,4 +1,4 @@
 name: "RELEASE_KERNEL_RAVEN_DIR"
 value: {
-  string_value: "device/google/raviole-kernels/6.1/trunk-13155568"
+  string_value: "device/google/raviole-kernels/6.1/trunk-13211717"
 }

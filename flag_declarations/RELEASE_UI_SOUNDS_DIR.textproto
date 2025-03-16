@@ -1,0 +1,6 @@
+name: "RELEASE_UI_SOUNDS_DIR"
+namespace: "systemui"
+description: "Specify an alternate location for UI sounds."
+value: {
+  string_value: ""
+}
