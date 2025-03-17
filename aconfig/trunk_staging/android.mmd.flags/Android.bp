@@ -13,8 +13,8 @@
 // limitations under the License.
 
 aconfig_values {
-    name: "aconfig-values-platform_build_release-trunk_staging-android.content.flags-all",
-    package: "android.content.flags",
+    name: "aconfig-values-platform_build_release-trunk_staging-android.mmd.flags-all",
+    package: "android.mmd.flags",
     srcs: [
         "*_flag_values.textproto",
     ],
