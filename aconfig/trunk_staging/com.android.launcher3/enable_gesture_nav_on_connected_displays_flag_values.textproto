@@ -1,6 +1,6 @@
 flag_value {
   package: "com.android.launcher3"
-  name: "enable_taskbar_behind_shade"
+  name: "enable_gesture_nav_on_connected_displays"
   state: ENABLED
   permission: READ_WRITE
 }
