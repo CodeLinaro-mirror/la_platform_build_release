@@ -1,6 +1,6 @@
 flag_value {
   package: "com.android.systemui"
-  name: "ui_rich_ongoing_force_expanded"
+  name: "notification_skip_silent_updates"
   state: ENABLED
   permission: READ_WRITE
 }
