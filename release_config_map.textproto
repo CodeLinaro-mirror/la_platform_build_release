@@ -1,6 +1,6 @@
 aliases: {
   name: "aosp_current"
-  target: "bp2a"
+  target: "bp1a"
 }
 default_containers: "product"
 default_containers: "system"
