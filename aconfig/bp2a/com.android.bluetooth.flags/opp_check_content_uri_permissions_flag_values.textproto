@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "opp_check_content_uri_permissions"
+  state: ENABLED
+  permission: READ_ONLY
+}
