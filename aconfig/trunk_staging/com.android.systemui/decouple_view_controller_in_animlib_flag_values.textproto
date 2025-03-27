@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "decouple_view_controller_in_animlib"
+  state: ENABLED
+  permission: READ_WRITE
+}
