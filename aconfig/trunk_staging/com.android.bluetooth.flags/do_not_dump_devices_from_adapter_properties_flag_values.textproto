@@ -1,6 +1,6 @@
 flag_value {
   package: "com.android.bluetooth.flags"
-  name: "opp_check_content_uri_permissions"
+  name: "do_not_dump_devices_from_adapter_properties"
   state: ENABLED
   permission: READ_WRITE
 }
