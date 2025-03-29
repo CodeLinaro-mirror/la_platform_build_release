@@ -1,4 +1,0 @@
-name: "RELEASE_ZUMA_TARGET_ARCH_VARIANT_ARMV9"
-value {
-  bool_value: true
-}
