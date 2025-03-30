@@ -1,6 +1,0 @@
-flag_value {
-  package: "com.android.trunk_stable_workflow_testing"
-  name: "frozen_read_only"
-  state: ENABLED
-  permission: READ_ONLY
-}
