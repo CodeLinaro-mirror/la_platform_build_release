@@ -1,6 +1,6 @@
 flag_value {
   package: "com.android.systemui"
-  name: "aod_ui_rich_ongoing"
+  name: "dream_overlay_updated_ui"
   state: ENABLED
-  permission: READ_WRITE
+  permission: READ_ONLY
 }

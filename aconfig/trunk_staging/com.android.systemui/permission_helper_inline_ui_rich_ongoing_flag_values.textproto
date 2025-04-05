@@ -1,6 +1,6 @@
 flag_value {
   package: "com.android.systemui"
-  name: "dream_overlay_updated_font"
+  name: "permission_helper_inline_ui_rich_ongoing"
   state: ENABLED
   permission: READ_WRITE
 }

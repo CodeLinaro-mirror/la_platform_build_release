@@ -2,5 +2,5 @@ flag_value {
   package: "com.android.server.telecom.flags"
   name: "update_preferred_audio_device_logic"
   state: ENABLED
-  permission: READ_WRITE
+  permission: READ_ONLY
 }

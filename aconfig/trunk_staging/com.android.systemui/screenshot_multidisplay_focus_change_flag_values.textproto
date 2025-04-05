@@ -1,6 +1,6 @@
 flag_value {
   package: "com.android.systemui"
-  name: "status_bar_chips_return_animations"
+  name: "screenshot_multidisplay_focus_change"
   state: ENABLED
   permission: READ_WRITE
 }
