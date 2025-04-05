@@ -1,6 +1,0 @@
-flag_value {
-  package: "android.os"
-  name: "force_concurrent_message_queue"
-  state: ENABLED
-  permission: READ_WRITE
-}
