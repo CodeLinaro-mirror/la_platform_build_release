@@ -1,6 +1,6 @@
 flag_value {
   package: "com.android.launcher3"
-  name: "all_apps_blur"
+  name: "enable_refactor_task_content_view"
   state: ENABLED
   permission: READ_WRITE
 }
