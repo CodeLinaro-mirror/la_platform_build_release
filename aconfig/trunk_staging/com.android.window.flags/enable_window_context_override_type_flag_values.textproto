@@ -1,6 +1,6 @@
 flag_value {
   package: "com.android.window.flags"
-  name: "fix_view_root_call_trace"
+  name: "enable_window_context_override_type"
   state: ENABLED
   permission: READ_ONLY
 }
