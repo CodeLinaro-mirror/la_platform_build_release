@@ -1,6 +1,6 @@
 flag_value {
   package: "com.android.bluetooth.flags"
-  name: "initial_conn_params_p1"
+  name: "delay_offload_le_coc_connection_ind"
   state: ENABLED
-  permission: READ_ONLY
+  permission: READ_WRITE
 }

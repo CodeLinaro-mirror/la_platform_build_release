@@ -1,6 +1,6 @@
 flag_value {
   package: "com.android.window.flags"
-  name: "exclude_task_from_recents"
+  name: "enable_desktop_ime_bugfix"
   state: ENABLED
-  permission: READ_ONLY
+  permission: READ_WRITE
 }
