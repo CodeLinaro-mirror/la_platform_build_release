@@ -1,6 +1,6 @@
 flag_value {
   package: "com.android.graphics.surfaceflinger.flags"
-  name: "view_set_requested_frame_rate_mrr"
+  name: "disable_synthetic_vsync_for_performance"
   state: ENABLED
-  permission: READ_ONLY
+  permission: READ_WRITE
 }

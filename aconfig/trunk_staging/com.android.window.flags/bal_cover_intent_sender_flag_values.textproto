@@ -1,6 +1,6 @@
 flag_value {
   package: "com.android.window.flags"
-  name: "fix_view_root_call_trace"
+  name: "bal_cover_intent_sender"
   state: ENABLED
-  permission: READ_ONLY
+  permission: READ_WRITE
 }
