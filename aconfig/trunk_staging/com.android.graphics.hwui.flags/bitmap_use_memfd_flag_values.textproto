@@ -1,6 +1,0 @@
-flag_value {
-  package: "com.android.graphics.hwui.flags"
-  name: "bitmap_use_memfd"
-  state: ENABLED
-  permission: READ_ONLY
-}
