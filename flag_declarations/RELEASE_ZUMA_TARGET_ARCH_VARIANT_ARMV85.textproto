@@ -1,0 +1,11 @@
+name:  "RELEASE_ZUMA_TARGET_ARCH_VARIANT_ARMV85"
+namespace:  "system_performance"
+description:  "Build code for Tensor G3 (Zuma) as ARMv8.5-A instead of ARMv8.2-A"
+value: {
+  bool_value: false
+}
+workflow:  LAUNCH
+containers:  "product"
+containers:  "system"
+containers:  "system_ext"
+containers:  "vendor"
