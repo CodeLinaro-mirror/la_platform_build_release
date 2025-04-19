@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.server.stats"
+  name: "use_network_stats_query_summary"
+  state: ENABLED
+  permission: READ_ONLY
+}
