@@ -1,6 +1,6 @@
 flag_value {
   package: "com.android.systemui"
-  name: "status_bar_chips_return_animations"
+  name: "enable_underlay"
   state: ENABLED
   permission: READ_WRITE
 }

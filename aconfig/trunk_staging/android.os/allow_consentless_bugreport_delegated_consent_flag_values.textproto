@@ -1,6 +1,6 @@
 flag_value {
   package: "android.os"
-  name: "force_concurrent_message_queue"
+  name: "allow_consentless_bugreport_delegated_consent"
   state: ENABLED
   permission: READ_WRITE
 }
