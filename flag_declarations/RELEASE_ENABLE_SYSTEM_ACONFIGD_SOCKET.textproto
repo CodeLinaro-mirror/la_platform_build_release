@@ -1,4 +1,4 @@
-name: "RELEASE_DISABLE_SYSTEM_ACONFIGD_SOCKET"
+name: "RELEASE_ENABLE_SYSTEM_ACONFIGD_SOCKET"
 namespace: "android_UNKNOWN"
 description: "Control if we should turn on system aconfigd socket."
 value: {
