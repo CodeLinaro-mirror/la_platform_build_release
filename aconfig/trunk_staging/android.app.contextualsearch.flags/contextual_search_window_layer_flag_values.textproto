@@ -1,6 +1,0 @@
-flag_value {
-  package: "android.app.contextualsearch.flags"
-  name: "contextual_search_window_layer"
-  state: ENABLED
-  permission: READ_WRITE
-}
