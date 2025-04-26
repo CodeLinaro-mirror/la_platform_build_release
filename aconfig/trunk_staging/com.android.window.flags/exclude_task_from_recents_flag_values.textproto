@@ -1,6 +1,6 @@
 flag_value {
   package: "com.android.window.flags"
-  name: "update_host_input_transfer_token"
+  name: "exclude_task_from_recents"
   state: ENABLED
   permission: READ_ONLY
 }
