@@ -1,6 +1,6 @@
 flag_value {
   package: "com.android.window.flags"
-  name: "force_show_system_bar_for_bubble"
+  name: "enable_desktop_app_launch_bugfix"
   state: ENABLED
-  permission: READ_ONLY
+  permission: READ_WRITE
 }
