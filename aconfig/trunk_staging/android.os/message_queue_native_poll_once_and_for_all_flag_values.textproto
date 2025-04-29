@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.os"
+  name: "message_queue_native_poll_once_and_for_all"
+  state: ENABLED
+  permission: READ_WRITE
+}
