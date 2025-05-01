@@ -1,6 +1,6 @@
 flag_value {
   package: "com.android.window.flags"
-  name: "intercept_motion_from_move_to_cancel"
+  name: "scvh_surface_control_lifetime_fix"
   state: ENABLED
   permission: READ_ONLY
 }
