@@ -1,0 +1,5 @@
+name: "RELEASE_ENABLE_LOGCAT_PERSISTENCE"
+namespace: "desktop_stats"
+description: "This flag enables logcat persistence"
+workflow: MANUAL
+containers: "vendor"
