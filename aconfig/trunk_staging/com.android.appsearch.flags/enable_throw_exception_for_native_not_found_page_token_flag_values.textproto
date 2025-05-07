@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.appsearch.flags"
+  name: "enable_throw_exception_for_native_not_found_page_token"
+  state: ENABLED
+  permission: READ_WRITE
+}
