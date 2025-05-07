@@ -1,6 +1,6 @@
 flag_value {
   package: "com.android.bluetooth.flags"
-  name: "vcp_handle_group_id_internally"
+  name: "distance_measurement_thread"
   state: ENABLED
   permission: READ_WRITE
 }
