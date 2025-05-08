@@ -1,6 +1,6 @@
 flag_value {
   package: "com.android.window.flags"
-  name: "enable_multiple_desktops_default_activation_in_desktop_first_displays"
+  name: "enable_desktop_app_header_state_change_announcements"
   state: ENABLED
   permission: READ_WRITE
 }
