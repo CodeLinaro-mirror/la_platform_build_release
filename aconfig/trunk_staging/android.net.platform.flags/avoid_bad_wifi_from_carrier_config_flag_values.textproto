@@ -1,6 +1,0 @@
-flag_value {
-  package: "android.net.platform.flags"
-  name: "avoid_bad_wifi_from_carrier_config"
-  state: ENABLED
-  permission: READ_WRITE
-}
