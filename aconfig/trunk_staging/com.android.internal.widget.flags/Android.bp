@@ -13,8 +13,8 @@
 // limitations under the License.
 
 aconfig_values {
-    name: "aconfig-values-platform_build_release-trunk_staging-com.android.ipsec.flags-all",
-    package: "com.android.ipsec.flags",
+    name: "aconfig-values-platform_build_release-trunk_staging-com.android.internal.widget.flags-all",
+    package: "com.android.internal.widget.flags",
     srcs: [
         "*_flag_values.textproto",
     ],
