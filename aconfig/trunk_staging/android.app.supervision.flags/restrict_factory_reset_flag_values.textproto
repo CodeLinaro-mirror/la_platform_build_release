@@ -1,6 +1,6 @@
 flag_value {
   package: "android.app.supervision.flags"
-  name: "enable_remove_policies_on_supervision_disable"
+  name: "restrict_factory_reset"
   state: ENABLED
   permission: READ_WRITE
 }
