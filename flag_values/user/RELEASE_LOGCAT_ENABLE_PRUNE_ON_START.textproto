@@ -1,4 +1,0 @@
-name: "RELEASE_LOGCAT_ENABLE_PRUNE_ON_START"
-value: {
-  bool_value: false
-}
