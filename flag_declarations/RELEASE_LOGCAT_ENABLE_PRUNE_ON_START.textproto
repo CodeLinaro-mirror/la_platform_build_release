@@ -1,5 +1,0 @@
-name: "RELEASE_LOGCAT_ENABLE_PRUNE_ON_START"
-namespace: "desktop_stats"
-description: "This flag enables logcat to prune old log files and log entries after system boot"
-workflow: MANUAL
-containers: "system"
