@@ -1,6 +1,0 @@
-flag_value {
-  package: "android.provider"
-  name: "launcher_data_access"
-  state: ENABLED
-  permission: READ_ONLY
-}
