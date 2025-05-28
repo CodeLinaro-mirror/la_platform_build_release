@@ -1,6 +1,6 @@
 flag_value {
   package: "com.example.android.aconfig.demo.flags"
-  name: "yet_another_mendel_gantry_disintegration_bugfix_flag"
+  name: "mainline_beta_test_flag_2"
   state: ENABLED
   permission: READ_WRITE
 }

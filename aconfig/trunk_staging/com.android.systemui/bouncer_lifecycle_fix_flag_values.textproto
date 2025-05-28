@@ -1,6 +1,6 @@
 flag_value {
   package: "com.android.systemui"
-  name: "predictive_back_delay_wm_transition"
+  name: "bouncer_lifecycle_fix"
   state: ENABLED
   permission: READ_WRITE
 }
