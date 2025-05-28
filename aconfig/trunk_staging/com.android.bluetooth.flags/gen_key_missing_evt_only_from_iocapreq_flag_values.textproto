@@ -1,6 +1,6 @@
 flag_value {
   package: "com.android.bluetooth.flags"
-  name: "is_sco_managed_by_audio"
+  name: "gen_key_missing_evt_only_from_iocapreq"
   state: ENABLED
   permission: READ_WRITE
 }
