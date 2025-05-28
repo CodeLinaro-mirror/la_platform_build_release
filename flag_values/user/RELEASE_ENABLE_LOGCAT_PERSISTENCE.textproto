@@ -1,4 +1,0 @@
-name: "RELEASE_ENABLE_LOGCAT_PERSISTENCE"
-value: {
-  bool_value: false
-}
