@@ -1,4 +1,4 @@
 name: "RELEASE_KERNEL_BLUEJAY_DIR"
 value: {
-  string_value: "device/google/bluejay-kernels/6.1/trunk-13444862"
+  string_value: "device/google/bluejay-kernels/6.1/trunk-13495823"
 }
