@@ -1,6 +1,0 @@
-flag_value {
-  package: "android.app.supervision.flags"
-  name: "update_supervision_admin_dialog"
-  state: ENABLED
-  permission: READ_WRITE
-}
