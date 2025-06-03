@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.window.flags"
+  name: "ensure_keyguard_does_transition_starting"
+  state: ENABLED
+  permission: READ_ONLY
+}
