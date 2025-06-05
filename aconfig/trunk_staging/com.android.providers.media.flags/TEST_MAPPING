@@ -2,6 +2,9 @@
   "imports": [
     {
       "path": "packages/providers/MediaProvider"
+    },
+    {
+      "path": "packages/providers/MediaProvider/photopicker"
     }
   ]
 }
