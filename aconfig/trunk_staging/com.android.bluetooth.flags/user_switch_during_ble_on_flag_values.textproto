@@ -1,6 +1,6 @@
 flag_value {
   package: "com.android.bluetooth.flags"
-  name: "support_passive_scanning"
+  name: "user_switch_during_ble_on"
   state: ENABLED
   permission: READ_WRITE
 }
