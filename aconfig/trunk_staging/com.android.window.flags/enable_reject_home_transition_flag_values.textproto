@@ -1,6 +1,6 @@
 flag_value {
   package: "com.android.window.flags"
-  name: "nested_tasks_with_independent_bounds"
+  name: "enable_reject_home_transition"
   state: ENABLED
   permission: READ_WRITE
 }
