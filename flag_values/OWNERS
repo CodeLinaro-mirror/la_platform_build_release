@@ -1,4 +1,3 @@
-per-file ?p??/*.textproto,trunk*/*.textproto=ankurbakshi@google.com # For Nextfood promotion requests
 per-file ?p??/*.textproto,trunk*/*.textproto=bkhalife@google.com # For Nextfood promotion requests
 per-file ?p??/*.textproto,trunk*/*.textproto=chapin@google.com # For Nextfood promotion requests
 per-file ?p??/*.textproto,trunk*/*.textproto=jainne@google.com # For Nextfood promotion requests
