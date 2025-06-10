@@ -1,6 +1,0 @@
-flag_value {
-  package: "com.android.art.flags"
-  name: "use_uffd_move_ioctl"
-  state: ENABLED
-  permission: READ_ONLY
-}
