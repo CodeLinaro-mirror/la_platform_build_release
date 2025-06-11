@@ -18,7 +18,6 @@ morrislin@google.com # Temporary primary
 amhk@google.com # Temporary primary
 
 per-file release_configs/?p??.textproto=jainne@google.com # New platform release configs
-per-file aconfig/?p??/*,aconfig/?p??/*/*=ankurbakshi@google.com # For Nextfood promotion requests
 per-file aconfig/?p??/*,aconfig/?p??/*/*=bkhalife@google.com # For Nextfood promotion requests
 per-file aconfig/?p??/*,aconfig/?p??/*/*=chapin@google.com # For Nextfood promotion requests
 per-file aconfig/?p??/*,aconfig/?p??/*/*=jainne@google.com # For Nextfood promotion requests
