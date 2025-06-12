@@ -1,0 +1,4 @@
+name: "RELEASE_ZUMAPRO_TARGET_ARCH_VARIANT_ARMV92"
+value {
+  bool_value: true
+}

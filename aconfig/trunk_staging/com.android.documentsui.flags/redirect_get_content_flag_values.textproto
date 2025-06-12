@@ -1,6 +1,0 @@
-flag_value {
-  package: "com.android.documentsui.flags"
-  name: "redirect_get_content"
-  state: ENABLED
-  permission: READ_WRITE
-}
