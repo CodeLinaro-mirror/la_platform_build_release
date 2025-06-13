@@ -4,7 +4,7 @@ value: {
   bool_value: true
 }
 description: "Remove product ADB keys from the build"
-workflow: MANUAL
+workflow: MANUAL_BUILD_VARIANT
 containers: "product"
 containers: "system"
 containers: "system_ext"
