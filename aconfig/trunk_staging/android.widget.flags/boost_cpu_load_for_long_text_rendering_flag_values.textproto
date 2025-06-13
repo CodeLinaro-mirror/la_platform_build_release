@@ -1,6 +1,0 @@
-flag_value {
-  package: "android.widget.flags"
-  name: "boost_cpu_load_for_long_text_rendering"
-  state: ENABLED
-  permission: READ_WRITE
-}
