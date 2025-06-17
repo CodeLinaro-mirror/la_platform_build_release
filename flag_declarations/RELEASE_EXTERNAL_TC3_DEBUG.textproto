@@ -4,6 +4,6 @@ value: {
   bool_value: false
 }
 description: "Enables assertions and verbose logging in libtextclassifier."
-workflow: MANUAL
+workflow: MANUAL_BUILD_VARIANT
 containers: "product"
 containers: "system"
