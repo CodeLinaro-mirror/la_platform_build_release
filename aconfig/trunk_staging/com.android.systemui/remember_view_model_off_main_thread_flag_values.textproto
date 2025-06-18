@@ -1,6 +1,0 @@
-flag_value {
-  package: "com.android.systemui"
-  name: "remember_view_model_off_main_thread"
-  state: ENABLED
-  permission: READ_WRITE
-}

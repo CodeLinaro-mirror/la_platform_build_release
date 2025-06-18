@@ -18,7 +18,6 @@ morrislin@google.com # Temporary primary
 amhk@google.com # Temporary primary
 
 per-file release_configs/?p??.textproto=jainne@google.com # New platform release configs
-per-file aconfig/?p??/*,aconfig/?p??/*/*=ankurbakshi@google.com # For Nextfood promotion requests
 per-file aconfig/?p??/*,aconfig/?p??/*/*=bkhalife@google.com # For Nextfood promotion requests
 per-file aconfig/?p??/*,aconfig/?p??/*/*=chapin@google.com # For Nextfood promotion requests
 per-file aconfig/?p??/*,aconfig/?p??/*/*=jainne@google.com # For Nextfood promotion requests
@@ -33,6 +32,8 @@ per-file aconfig/*/*,aconfig/*/*/*=opg@google.com
 per-file aconfig/*/*,aconfig/*/*/*=tejaswiy@google.com
 
 per-file flag_values/*/RELEASE_BUILD_AFDO_PROFILE_VERSION.textproto = file:platform/prebuilts/clang/host/linux-x86:/OWNERS # Android LLVM Toolchain
+per-file flag_values/trunk*/RELEASE_BUILD_CLANG_SHORT_VERSION.textproto = file:platform/prebuilts/clang/host/linux-x86:/OWNERS # Android LLVM Toolchain
+per-file flag_values/trunk*/RELEASE_BUILD_CLANG_VERSION.textproto = file:platform/prebuilts/clang/host/linux-x86:/OWNERS # Android LLVM Toolchain
 
 per-file {flag_declarations,flag_values/*}/RELEASE_PLATFORM_BASE_SDK_EXTENSION_VERSION.textproto = file:platform/frameworks/base:/SDK_OWNERS # Android SDK
 per-file {flag_declarations,flag_values/*}/RELEASE_PLATFORM_SDK_EXTENSION_VERSION.textproto = file:platform/frameworks/base:/SDK_OWNERS # Android SDK
