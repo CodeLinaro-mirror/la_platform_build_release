@@ -1,6 +1,0 @@
-flag_value {
-  package: "com.android.systemui"
-  name: "udfps_screen_off_unlock_flicker"
-  state: ENABLED
-  permission: READ_ONLY
-}
