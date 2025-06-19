@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "privacy_dot_live_region"
+  state: ENABLED
+  permission: READ_ONLY
+}
