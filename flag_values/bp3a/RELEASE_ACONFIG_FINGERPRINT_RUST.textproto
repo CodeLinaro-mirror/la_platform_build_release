@@ -1,4 +1,0 @@
-name: "RELEASE_ACONFIG_FINGERPRINT_RUST"
-value {
-  bool_value: true
-}

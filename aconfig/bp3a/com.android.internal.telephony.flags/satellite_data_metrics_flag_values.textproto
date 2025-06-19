@@ -1,6 +1,0 @@
-flag_value {
-  package: "com.android.internal.telephony.flags"
-  name: "satellite_data_metrics"
-  state: ENABLED
-  permission: READ_ONLY
-}

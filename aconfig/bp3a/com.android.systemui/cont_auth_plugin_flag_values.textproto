@@ -1,6 +1,0 @@
-flag_value {
-  package: "com.android.systemui"
-  name: "cont_auth_plugin"
-  state: ENABLED
-  permission: READ_ONLY
-}

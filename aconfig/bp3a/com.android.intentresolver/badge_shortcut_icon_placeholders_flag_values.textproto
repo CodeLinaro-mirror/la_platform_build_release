@@ -1,6 +1,0 @@
-flag_value {
-  package: "com.android.intentresolver"
-  name: "badge_shortcut_icon_placeholders"
-  state: ENABLED
-  permission: READ_ONLY
-}
