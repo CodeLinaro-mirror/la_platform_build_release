@@ -1,6 +1,0 @@
-flag_value {
-  package: "android.app"
-  name: "on_restart_activity_lifecycle_callback"
-  state: ENABLED
-  permission: READ_WRITE
-}
