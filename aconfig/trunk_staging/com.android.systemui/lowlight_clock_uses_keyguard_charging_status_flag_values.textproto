@@ -1,6 +1,6 @@
 flag_value {
   package: "com.android.systemui"
-  name: "ongoing_activity_chips_on_dream"
+  name: "lowlight_clock_uses_keyguard_charging_status"
   state: ENABLED
   permission: READ_WRITE
 }
