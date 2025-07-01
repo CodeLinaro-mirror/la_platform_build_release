@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.view.inputmethod"
+  name: "optimize_ime_input_target_update"
+  state: ENABLED
+  permission: READ_WRITE
+}
