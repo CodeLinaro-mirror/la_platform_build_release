@@ -1,6 +1,0 @@
-flag_value {
-  package: "com.android.bluetooth.flags"
-  name: "trigger_sec_proc_on_inc_access_req"
-  state: ENABLED
-  permission: READ_WRITE
-}
