@@ -1,4 +1,0 @@
-name: "RELEASE_SOONG_CHECK_ELF_FILES"
-value {
-  bool_value: true
-}
