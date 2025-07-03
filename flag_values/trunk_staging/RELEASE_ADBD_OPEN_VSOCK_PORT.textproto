@@ -1,4 +1,0 @@
-name: "RELEASE_ADBD_OPEN_VSOCK_PORT"
-value {
-  bool_value: true
-}
