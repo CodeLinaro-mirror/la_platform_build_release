@@ -1,6 +1,0 @@
-flag_value {
-  package: "android.permission.flags"
-  name: "limit_sensor_privacy_listeners"
-  state: ENABLED
-  permission: READ_ONLY
-}
