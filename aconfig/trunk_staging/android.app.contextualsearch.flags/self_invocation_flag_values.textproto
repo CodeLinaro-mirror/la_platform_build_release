@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.app.contextualsearch.flags"
+  name: "self_invocation"
+  state: ENABLED
+  permission: READ_WRITE
+}
