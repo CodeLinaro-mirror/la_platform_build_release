@@ -1,6 +1,6 @@
 flag_value {
   package: "android.os"
-  name: "zygote_app_launch_latency_ablation"
+  name: "binder_cache_transaction_trace_names"
   state: ENABLED
   permission: READ_WRITE
 }

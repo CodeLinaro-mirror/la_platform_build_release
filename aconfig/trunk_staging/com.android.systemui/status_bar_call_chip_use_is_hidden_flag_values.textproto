@@ -1,6 +1,6 @@
 flag_value {
   package: "com.android.systemui"
-  name: "non_touchscreen_devices_bypass_falsing"
+  name: "status_bar_call_chip_use_is_hidden"
   state: ENABLED
   permission: READ_WRITE
 }
