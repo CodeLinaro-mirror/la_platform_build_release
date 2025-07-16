@@ -1,6 +1,6 @@
 flag_value {
   package: "com.android.server.notification"
-  name: "notification_force_group_conversations"
+  name: "log_visually_changed_updates"
   state: ENABLED
-  permission: READ_WRITE
+  permission: READ_ONLY
 }
