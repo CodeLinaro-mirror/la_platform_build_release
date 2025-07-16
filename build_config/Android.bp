@@ -18,31 +18,19 @@ package {
 
 build_flags_json {
     name: "build_flag_system",
-    deps: [
-        "my_release_config",
-    ],
 }
 
 build_flags_json {
     name: "build_flag_system_ext",
     system_ext_specific: true,
-    deps: [
-        "my_release_config",
-    ],
 }
 
 build_flags_json {
     name: "build_flag_product",
     product_specific: true,
-    deps: [
-        "my_release_config",
-    ],
 }
 
 build_flags_json {
     name: "build_flag_vendor",
     vendor: true,
-    deps: [
-        "my_release_config",
-    ],
 }
