@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.content.res"
+  name: "idmap_crc_is_mtime"
+  state: ENABLED
+  permission: READ_WRITE
+}
