@@ -1,6 +1,6 @@
 flag_value {
   package: "com.android.systemui"
-  name: "scrim_fix"
+  name: "lowlight_clock_set_brightness"
   state: ENABLED
-  permission: READ_WRITE
+  permission: READ_ONLY
 }
