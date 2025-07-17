@@ -13,8 +13,8 @@
 // limitations under the License.
 
 aconfig_values {
-    name: "aconfig-values-platform_build_release-bp3a-com.android.wallpaper-all",
-    package: "com.android.wallpaper",
+    name: "aconfig-values-platform_build_release-trunk_staging-android.hardware.serial.flags-all",
+    package: "android.hardware.serial.flags",
     srcs: [
         "*_flag_values.textproto",
     ],
