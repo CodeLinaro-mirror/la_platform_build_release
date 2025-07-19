@@ -1,6 +1,6 @@
 flag_value {
   package: "com.android.systemui"
-  name: "qs_new_tiles"
+  name: "glanceable_hub_enabled_by_default"
   state: ENABLED
   permission: READ_WRITE
 }
