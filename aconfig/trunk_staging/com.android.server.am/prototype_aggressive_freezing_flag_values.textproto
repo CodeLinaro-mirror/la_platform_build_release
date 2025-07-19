@@ -1,6 +1,0 @@
-flag_value {
-  package: "com.android.server.am"
-  name: "prototype_aggressive_freezing"
-  state: ENABLED
-  permission: READ_WRITE
-}
