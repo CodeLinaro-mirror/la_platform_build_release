@@ -1,6 +1,0 @@
-flag_value {
-  package: "com.android.window.flags"
-  name: "release_all_transition_surfaces"
-  state: ENABLED
-  permission: READ_ONLY
-}
