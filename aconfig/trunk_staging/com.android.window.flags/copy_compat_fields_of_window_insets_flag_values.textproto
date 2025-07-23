@@ -1,6 +1,6 @@
 flag_value {
   package: "com.android.window.flags"
-  name: "nav_bar_transparent_by_default"
+  name: "copy_compat_fields_of_window_insets"
   state: ENABLED
-  permission: READ_WRITE
+  permission: READ_ONLY
 }
