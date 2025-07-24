@@ -1,6 +1,6 @@
 flag_value {
   package: "com.android.server.am"
-  name: "prototype_aggressive_freezing"
+  name: "oomadjuster_vis_laddering"
   state: ENABLED
-  permission: READ_WRITE
+  permission: READ_ONLY
 }
