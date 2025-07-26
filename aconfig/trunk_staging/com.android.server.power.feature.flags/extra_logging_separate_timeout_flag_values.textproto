@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.server.power.feature.flags"
+  name: "extra_logging_separate_timeout"
+  state: ENABLED
+  permission: READ_WRITE
+}
