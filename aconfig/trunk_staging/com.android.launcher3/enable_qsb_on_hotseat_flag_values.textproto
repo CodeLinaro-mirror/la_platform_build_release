@@ -1,6 +1,6 @@
 flag_value {
   package: "com.android.launcher3"
-  name: "enable_later_is_locked_check"
+  name: "enable_qsb_on_hotseat"
   state: ENABLED
   permission: READ_WRITE
 }
