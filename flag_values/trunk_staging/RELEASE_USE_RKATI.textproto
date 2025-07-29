@@ -1,4 +1,0 @@
-name: "RELEASE_USE_RKATI"
-value {
-  bool_value: true
-}
