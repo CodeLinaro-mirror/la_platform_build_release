@@ -1,6 +1,6 @@
 flag_value {
   package: "com.android.window.flags"
-  name: "nav_bar_transparent_by_default"
+  name: "enable_updated_display_connection_dialog"
   state: ENABLED
   permission: READ_WRITE
 }
