@@ -1,6 +1,6 @@
 flag_value {
   package: "com.android.systemui"
-  name: "privacy_dot_live_region"
+  name: "scene_container_desktop"
   state: ENABLED
-  permission: READ_ONLY
+  permission: READ_WRITE
 }

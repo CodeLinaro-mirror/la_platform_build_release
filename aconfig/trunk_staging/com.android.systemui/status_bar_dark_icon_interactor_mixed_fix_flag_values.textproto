@@ -1,6 +1,6 @@
 flag_value {
   package: "com.android.systemui"
-  name: "sign_out_button_on_keyguard_status_bar"
+  name: "status_bar_dark_icon_interactor_mixed_fix"
   state: ENABLED
   permission: READ_WRITE
 }
