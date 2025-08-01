@@ -1,6 +1,6 @@
 flag_value {
   package: "com.android.systemui"
-  name: "privacy_dot_live_region"
+  name: "sign_out_button_on_keyguard_status_bar"
   state: ENABLED
   permission: READ_WRITE
 }
