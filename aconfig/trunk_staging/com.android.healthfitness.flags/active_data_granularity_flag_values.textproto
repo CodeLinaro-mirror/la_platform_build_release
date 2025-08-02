@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.healthfitness.flags"
+  name: "active_data_granularity"
+  state: ENABLED
+  permission: READ_ONLY
+}
