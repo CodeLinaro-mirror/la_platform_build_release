@@ -1,6 +1,6 @@
 flag_value {
   package: "com.android.bluetooth.flags"
-  name: "hap_on_main_looper"
+  name: "map_continue_operation"
   state: ENABLED
   permission: READ_WRITE
 }
