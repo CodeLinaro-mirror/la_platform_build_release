@@ -1,0 +1,5 @@
+name: "RELEASE_LIBBINDER_NO_FLUSH_ON_LAST_REF"
+namespace: "system_performance"
+description: "Suppress flush when removing frozen state change callback in onLastStrongRef"
+workflow: LAUNCH
+containers: "system"
