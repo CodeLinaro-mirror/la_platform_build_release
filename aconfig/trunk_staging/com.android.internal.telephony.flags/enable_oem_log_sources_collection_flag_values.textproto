@@ -1,6 +1,6 @@
 flag_value {
   package: "com.android.internal.telephony.flags"
-  name: "ap_domain_selection_enabled"
+  name: "enable_oem_log_sources_collection"
   state: ENABLED
   permission: READ_WRITE
 }
