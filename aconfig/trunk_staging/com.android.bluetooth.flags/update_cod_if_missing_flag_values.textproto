@@ -1,6 +1,6 @@
 flag_value {
   package: "com.android.bluetooth.flags"
-  name: "gatt_clear_cache_on_factory_reset"
+  name: "update_cod_if_missing"
   state: ENABLED
   permission: READ_WRITE
 }
