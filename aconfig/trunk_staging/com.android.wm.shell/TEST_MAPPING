@@ -11,6 +11,9 @@
     },
     {
       "path": "vendor/unbundled_google/packages/NexusLauncher"
+    },
+    {
+      "path": "frameworks/base/services/core/java/com/android/server/wm"
     }
   ]
 }
