@@ -1,6 +1,6 @@
 flag_value {
   package: "com.android.window.flags"
-  name: "always_seq_id_layout"
+  name: "excluding_layer_from_task_snapshot"
   state: ENABLED
   permission: READ_WRITE
 }
