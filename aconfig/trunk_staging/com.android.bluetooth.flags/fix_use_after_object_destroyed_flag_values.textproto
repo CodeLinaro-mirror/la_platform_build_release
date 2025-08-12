@@ -1,6 +1,6 @@
 flag_value {
   package: "com.android.bluetooth.flags"
-  name: "update_opp_launcher_user_changed"
+  name: "fix_use_after_object_destroyed"
   state: ENABLED
   permission: READ_WRITE
 }
