@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.graphics.libgui.flags"
+  name: "default_scaling_mode_freeze"
+  state: ENABLED
+  permission: READ_WRITE
+}
