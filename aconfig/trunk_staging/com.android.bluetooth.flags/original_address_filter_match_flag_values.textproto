@@ -1,6 +1,6 @@
 flag_value {
   package: "com.android.bluetooth.flags"
-  name: "update_opp_launcher_user_changed"
+  name: "original_address_filter_match"
   state: ENABLED
   permission: READ_WRITE
 }

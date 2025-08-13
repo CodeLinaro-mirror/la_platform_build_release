@@ -1,6 +1,6 @@
 flag_value {
   package: "com.android.systemui"
-  name: "status_bar_always_use_region_sampling"
+  name: "notification_row_is_removed_fix"
   state: ENABLED
   permission: READ_WRITE
 }
