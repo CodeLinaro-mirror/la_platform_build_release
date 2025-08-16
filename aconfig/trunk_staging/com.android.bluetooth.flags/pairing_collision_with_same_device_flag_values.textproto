@@ -1,6 +1,6 @@
 flag_value {
   package: "com.android.bluetooth.flags"
-  name: "scan_controller_thread"
+  name: "pairing_collision_with_same_device"
   state: ENABLED
   permission: READ_WRITE
 }

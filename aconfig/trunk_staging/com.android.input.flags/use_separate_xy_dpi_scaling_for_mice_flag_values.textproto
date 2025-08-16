@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.input.flags"
+  name: "use_separate_xy_dpi_scaling_for_mice"
+  state: ENABLED
+  permission: READ_WRITE
+}
