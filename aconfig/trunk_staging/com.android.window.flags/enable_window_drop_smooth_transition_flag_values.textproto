@@ -1,6 +1,6 @@
 flag_value {
   package: "com.android.window.flags"
-  name: "migrate_basic_legacy_ready"
+  name: "enable_window_drop_smooth_transition"
   state: ENABLED
   permission: READ_WRITE
 }
