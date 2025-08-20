@@ -1,0 +1,6 @@
+flag_value {
+  package: "powerhal.flags"
+  name: "ramp_down_sf_prefer_high_cap"
+  state: ENABLED
+  permission: READ_WRITE
+}
