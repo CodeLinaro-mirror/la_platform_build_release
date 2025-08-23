@@ -1,6 +1,6 @@
 flag_value {
   package: "com.android.systemui"
-  name: "promote_notifications_automatically"
+  name: "cleanup_instances_when_display_removed"
   state: ENABLED
   permission: READ_WRITE
 }

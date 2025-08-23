@@ -1,6 +1,0 @@
-flag_value {
-  package: "com.android.window.flags"
-  name: "enable_omit_accelerometer_rotation_restore"
-  state: ENABLED
-  permission: READ_ONLY
-}
