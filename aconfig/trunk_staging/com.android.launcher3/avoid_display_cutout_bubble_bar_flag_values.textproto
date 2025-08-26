@@ -1,6 +1,6 @@
 flag_value {
   package: "com.android.launcher3"
-  name: "injectable_model_items"
+  name: "avoid_display_cutout_bubble_bar"
   state: ENABLED
   permission: READ_WRITE
 }
