@@ -1,4 +1,0 @@
-name: "RELEASE_LIBBINDER_NO_FLUSH_ON_LAST_REF"
-value {
-  bool_value: true
-}
