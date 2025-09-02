@@ -1,6 +1,0 @@
-flag_value {
-  package: "com.android.server.notification"
-  name: "use_on_binding_died"
-  state: ENABLED
-  permission: READ_WRITE
-}
