@@ -1,4 +1,0 @@
-name: "RELEASE_SOONG_ONLY_MUSTANG"
-value {
-  bool_value: true
-}
