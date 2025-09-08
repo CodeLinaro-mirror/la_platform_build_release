@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.window.flags"
+  name: "enable_overflow_button_for_taskbar_pinned_items"
+  state: ENABLED
+  permission: READ_WRITE
+}

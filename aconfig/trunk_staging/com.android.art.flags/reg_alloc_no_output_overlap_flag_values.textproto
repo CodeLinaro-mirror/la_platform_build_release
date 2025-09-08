@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.art.flags"
+  name: "reg_alloc_no_output_overlap"
+  state: ENABLED
+  permission: READ_ONLY
+}
