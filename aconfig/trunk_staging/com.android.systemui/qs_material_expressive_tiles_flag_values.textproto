@@ -1,6 +1,6 @@
 flag_value {
   package: "com.android.systemui"
-  name: "media_controls_in_compose"
+  name: "qs_material_expressive_tiles"
   state: ENABLED
   permission: READ_WRITE
 }

@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.server.accounts"
+  name: "sqlite_sync_normal"
+  state: ENABLED
+  permission: READ_WRITE
+}
