@@ -1,6 +1,6 @@
 flag_value {
   package: "com.android.settings.flags"
-  name: "parameterised_screens_in_app_functions"
+  name: "biometric_enrollment_skip_splitscreen_checks_on_desktop"
   state: ENABLED
   permission: READ_WRITE
 }
