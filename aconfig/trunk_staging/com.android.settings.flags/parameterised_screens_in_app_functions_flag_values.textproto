@@ -1,6 +1,0 @@
-flag_value {
-  package: "com.android.settings.flags"
-  name: "parameterised_screens_in_app_functions"
-  state: ENABLED
-  permission: READ_WRITE
-}
