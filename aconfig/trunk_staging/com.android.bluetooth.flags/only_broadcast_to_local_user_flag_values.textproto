@@ -1,6 +1,6 @@
 flag_value {
   package: "com.android.bluetooth.flags"
-  name: "get_profile_oneway"
+  name: "only_broadcast_to_local_user"
   state: ENABLED
   permission: READ_WRITE
 }
