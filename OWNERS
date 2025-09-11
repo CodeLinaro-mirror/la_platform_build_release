@@ -11,6 +11,12 @@
 #   - The build_config and aconfig directories will be managed
 #     directly by gantry.
 
+# Automotive owners for this automotive branch (matches Dr. No approvers)
+chriselliott@google.com
+ralphthomas@google.com
+nicksauer@google.com
+stenning@google.com
+
 joeo@google.com # Temporary primary
 lamontjones@google.com # Temporary primary
 morrislin@google.com # Temporary primary
