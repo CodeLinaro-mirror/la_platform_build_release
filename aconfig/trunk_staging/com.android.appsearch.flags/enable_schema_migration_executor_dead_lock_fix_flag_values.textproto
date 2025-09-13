@@ -1,6 +1,6 @@
 flag_value {
   package: "com.android.appsearch.flags"
-  name: "app_open_event_indexer_enabled_v2"
+  name: "enable_schema_migration_executor_dead_lock_fix"
   state: ENABLED
   permission: READ_WRITE
 }
