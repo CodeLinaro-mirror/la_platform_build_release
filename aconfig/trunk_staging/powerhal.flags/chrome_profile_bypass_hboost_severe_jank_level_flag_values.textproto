@@ -1,0 +1,6 @@
+flag_value {
+  package: "powerhal.flags"
+  name: "chrome_profile_bypass_hboost_severe_jank_level"
+  state: ENABLED
+  permission: READ_WRITE
+}
