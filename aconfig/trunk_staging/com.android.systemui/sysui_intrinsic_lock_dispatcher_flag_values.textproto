@@ -1,6 +1,6 @@
 flag_value {
   package: "com.android.systemui"
-  name: "qs_material_expressive_tiles"
+  name: "sysui_intrinsic_lock_dispatcher"
   state: ENABLED
   permission: READ_WRITE
 }
