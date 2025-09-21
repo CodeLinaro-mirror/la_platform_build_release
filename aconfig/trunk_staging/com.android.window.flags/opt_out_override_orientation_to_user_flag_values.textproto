@@ -1,6 +1,6 @@
 flag_value {
   package: "com.android.window.flags"
-  name: "respect_requested_task_snapshot_resolution"
+  name: "opt_out_override_orientation_to_user"
   state: ENABLED
   permission: READ_WRITE
 }
