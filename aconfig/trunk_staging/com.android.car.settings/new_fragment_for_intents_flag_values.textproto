@@ -1,6 +1,0 @@
-flag_value {
-  package: "com.android.car.settings"
-  name: "new_fragment_for_intents"
-  state: ENABLED
-  permission: READ_WRITE
-}
