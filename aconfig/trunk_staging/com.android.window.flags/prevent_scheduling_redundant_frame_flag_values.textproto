@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.window.flags"
+  name: "prevent_scheduling_redundant_frame"
+  state: ENABLED
+  permission: READ_WRITE
+}
