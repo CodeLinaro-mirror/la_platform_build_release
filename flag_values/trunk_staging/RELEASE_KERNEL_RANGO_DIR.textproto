@@ -1,4 +1,4 @@
 name: "RELEASE_KERNEL_RANGO_DIR"
 value: {
-  string_value: "device/google/laguna-kernels/6.6/trunk-14167805/rango"
+  string_value: "device/google/laguna-kernels/6.6/trunk-14179331/rango"
 }
