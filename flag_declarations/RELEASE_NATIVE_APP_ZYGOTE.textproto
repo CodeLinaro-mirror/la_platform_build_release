@@ -1,5 +1,0 @@
-name:  "RELEASE_NATIVE_APP_ZYGOTE"
-namespace:  "system_performance"
-description:  "If true, enable support for the native-only variant of App Zygote"
-workflow:  LAUNCH
-containers:  "system"
