@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.server.power.feature.flags"
+  name: "wait_for_user_boot_complete"
+  state: ENABLED
+  permission: READ_WRITE
+}
