@@ -1,5 +1,5 @@
 name:  "RELEASE_USE_DEX_V41"
-namespace:  "android_UNKNOWN"
+namespace:  "art_performance"
 description:  "feature flag for enabling new DEX file format (v41)"
 workflow:  LAUNCH
 containers:  "product"

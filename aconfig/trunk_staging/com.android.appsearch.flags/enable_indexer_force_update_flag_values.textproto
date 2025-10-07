@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.appsearch.flags"
+  name: "enable_indexer_force_update"
+  state: ENABLED
+  permission: READ_WRITE
+}

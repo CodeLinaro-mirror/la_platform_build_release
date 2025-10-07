@@ -1,6 +1,0 @@
-flag_value {
-  package: "com.android.art.flags"
-  name: "ignore_boot_image_extension_class_resolution"
-  state: ENABLED
-  permission: READ_ONLY
-}
