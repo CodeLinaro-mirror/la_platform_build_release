@@ -1,6 +1,0 @@
-flag_value {
-  package: "android.app.supervision.flags"
-  name: "enable_app_store_filters_screen_fallback"
-  state: ENABLED
-  permission: READ_WRITE
-}
