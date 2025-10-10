@@ -1,6 +1,0 @@
-flag_value {
-  package: "android.companion"
-  name: "enable_task_continuity"
-  state: ENABLED
-  permission: READ_WRITE
-}
