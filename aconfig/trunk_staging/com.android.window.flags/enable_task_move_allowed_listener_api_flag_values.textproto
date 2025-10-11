@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.window.flags"
+  name: "enable_task_move_allowed_listener_api"
+  state: ENABLED
+  permission: READ_WRITE
+}
