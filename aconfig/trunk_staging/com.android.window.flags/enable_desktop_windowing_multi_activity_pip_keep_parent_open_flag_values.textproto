@@ -1,6 +1,6 @@
 flag_value {
   package: "com.android.window.flags"
-  name: "prevent_scheduling_redundant_frame"
+  name: "enable_desktop_windowing_multi_activity_pip_keep_parent_open"
   state: ENABLED
   permission: READ_WRITE
 }

@@ -1,6 +1,6 @@
 flag_value {
   package: "com.android.server.accessibility"
-  name: "fullscreen_fling_gesture"
+  name: "shell_command_enforce_permission"
   state: ENABLED
   permission: READ_WRITE
 }
