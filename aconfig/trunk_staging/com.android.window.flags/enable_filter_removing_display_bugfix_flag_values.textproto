@@ -1,6 +1,6 @@
 flag_value {
   package: "com.android.window.flags"
-  name: "no_alpha_rotation_enter_animation"
+  name: "enable_filter_removing_display_bugfix"
   state: ENABLED
   permission: READ_WRITE
 }

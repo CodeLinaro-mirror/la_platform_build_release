@@ -1,6 +1,6 @@
 flag_value {
   package: "com.android.settings.flags"
-  name: "updated_suggestion_card_aosp"
+  name: "move_safety_source_refresh_to_background"
   state: ENABLED
   permission: READ_WRITE
 }
