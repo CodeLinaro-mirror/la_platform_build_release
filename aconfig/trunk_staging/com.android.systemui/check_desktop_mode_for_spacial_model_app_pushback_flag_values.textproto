@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.systemui"
+  name: "check_desktop_mode_for_spacial_model_app_pushback"
+  state: ENABLED
+  permission: READ_WRITE
+}
