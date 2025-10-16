@@ -13,8 +13,8 @@
 // limitations under the License.
 
 aconfig_values {
-    name: "aconfig-values-platform_build_release-trunk_staging-com.android.providers.downloads.flags-all",
-    package: "com.android.providers.downloads.flags",
+    name: "aconfig-values-platform_build_release-trunk_staging-com.android.settings.connectivity-all",
+    package: "com.android.settings.connectivity",
     srcs: [
         "*_flag_values.textproto",
     ],
