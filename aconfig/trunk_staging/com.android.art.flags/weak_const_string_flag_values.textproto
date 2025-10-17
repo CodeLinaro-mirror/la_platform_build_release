@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.art.flags"
+  name: "weak_const_string"
+  state: ENABLED
+  permission: READ_ONLY
+}
