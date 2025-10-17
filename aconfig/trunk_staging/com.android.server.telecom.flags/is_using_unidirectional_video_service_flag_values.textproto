@@ -1,6 +1,6 @@
 flag_value {
   package: "com.android.server.telecom.flags"
-  name: "hearing_aid_pair_fix"
+  name: "is_using_unidirectional_video_service"
   state: ENABLED
   permission: READ_WRITE
 }
