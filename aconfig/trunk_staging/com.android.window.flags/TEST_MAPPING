@@ -1,6 +1,9 @@
 {
   "imports": [
     {
+      "path": "frameworks/base/packages/SystemUI"
+    },
+    {
       "path": "frameworks/native"
     },
     {

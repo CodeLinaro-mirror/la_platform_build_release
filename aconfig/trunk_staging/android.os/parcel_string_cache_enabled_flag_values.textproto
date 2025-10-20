@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.os"
+  name: "parcel_string_cache_enabled"
+  state: ENABLED
+  permission: READ_WRITE
+}
