@@ -1,6 +1,0 @@
-flag_value {
-  package: "powerhal.flags"
-  name: "initial_hboost_severe"
-  state: ENABLED
-  permission: READ_WRITE
-}

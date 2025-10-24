@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.window.flags"
+  name: "defer_resume_focus_in_non_focused_window"
+  state: ENABLED
+  permission: READ_WRITE
+}

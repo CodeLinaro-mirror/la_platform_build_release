@@ -1,6 +1,0 @@
-flag_value {
-  package: "com.android.car.settings"
-  name: "car_settings_multi_casting"
-  state: ENABLED
-  permission: READ_WRITE
-}

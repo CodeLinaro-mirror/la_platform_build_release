@@ -1,6 +1,0 @@
-flag_value {
-  package: "com.android.server.am"
-  name: "auto_trigger_oomadj_updates"
-  state: ENABLED
-  permission: READ_WRITE
-}

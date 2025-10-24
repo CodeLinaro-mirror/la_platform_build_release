@@ -1,6 +1,0 @@
-flag_value {
-  package: "android.uprobestats.mainline.flags"
-  name: "enable_binder_transaction_poc"
-  state: ENABLED
-  permission: READ_ONLY
-}
