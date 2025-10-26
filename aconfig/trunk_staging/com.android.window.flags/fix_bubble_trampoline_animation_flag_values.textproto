@@ -1,6 +1,6 @@
 flag_value {
   package: "com.android.window.flags"
-  name: "enable_taskbar_connected_displays"
+  name: "fix_bubble_trampoline_animation"
   state: ENABLED
-  permission: READ_ONLY
+  permission: READ_WRITE
 }
