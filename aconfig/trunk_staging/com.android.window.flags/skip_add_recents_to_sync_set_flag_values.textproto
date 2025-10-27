@@ -1,6 +1,6 @@
 flag_value {
   package: "com.android.window.flags"
-  name: "enable_desktop_windowing_pip_in_overview_bugfix"
+  name: "skip_add_recents_to_sync_set"
   state: ENABLED
   permission: READ_WRITE
 }

@@ -1,6 +1,6 @@
 flag_value {
   package: "com.android.bluetooth.flags"
-  name: "adm_centralize_active_device_handling"
+  name: "lecoc_with_fixed_psm"
   state: ENABLED
   permission: READ_WRITE
 }

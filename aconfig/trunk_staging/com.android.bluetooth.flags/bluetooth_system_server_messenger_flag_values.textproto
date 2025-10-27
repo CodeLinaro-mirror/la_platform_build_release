@@ -1,6 +1,6 @@
 flag_value {
   package: "com.android.bluetooth.flags"
-  name: "system_server_messenger"
+  name: "bluetooth_system_server_messenger"
   state: ENABLED
   permission: READ_WRITE
 }
