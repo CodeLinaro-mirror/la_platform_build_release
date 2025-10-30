@@ -1,6 +1,6 @@
 flag_value {
   package: "com.android.launcher3"
-  name: "expressive_theme_in_taskbar_and_navigation"
+  name: "tooltip_edu_combinator"
   state: ENABLED
   permission: READ_WRITE
 }
