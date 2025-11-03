@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.window.flags"
+  name: "enable_add_window_decoration_to_all_tasks"
+  state: ENABLED
+  permission: READ_WRITE
+}
