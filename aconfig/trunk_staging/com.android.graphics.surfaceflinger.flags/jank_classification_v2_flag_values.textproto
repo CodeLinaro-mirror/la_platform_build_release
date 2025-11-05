@@ -1,6 +1,6 @@
 flag_value {
   package: "com.android.graphics.surfaceflinger.flags"
-  name: "modeset_state_machine"
+  name: "jank_classification_v2"
   state: ENABLED
   permission: READ_WRITE
 }

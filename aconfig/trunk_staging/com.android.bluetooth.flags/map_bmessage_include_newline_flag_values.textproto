@@ -1,6 +1,6 @@
 flag_value {
   package: "com.android.bluetooth.flags"
-  name: "watch_device_override_airplane_mode"
+  name: "map_bmessage_include_newline"
   state: ENABLED
-  permission: READ_ONLY
+  permission: READ_WRITE
 }

@@ -1,6 +1,6 @@
 flag_value {
   package: "com.android.bluetooth.flags"
-  name: "system_server_messenger"
+  name: "leaudio_fix_allocation_in_codec_config"
   state: ENABLED
   permission: READ_WRITE
 }
