@@ -1,6 +1,6 @@
 flag_value {
-  package: "android.companion"
-  name: "task_continuity"
+  package: "android.os"
+  name: "binder_netlink_enabled"
   state: ENABLED
   permission: READ_WRITE
 }
