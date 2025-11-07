@@ -1,6 +1,6 @@
 flag_value {
   package: "android.permission.flags"
-  name: "app_function_access_api_enabled"
+  name: "active_watch_face_role_enabled"
   state: ENABLED
-  permission: READ_ONLY
+  permission: READ_WRITE
 }

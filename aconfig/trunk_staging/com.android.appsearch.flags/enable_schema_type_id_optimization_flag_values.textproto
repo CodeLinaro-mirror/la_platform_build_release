@@ -1,6 +1,6 @@
 flag_value {
   package: "com.android.appsearch.flags"
-  name: "enable_app_function_agent_allowlist_check"
+  name: "enable_schema_type_id_optimization"
   state: ENABLED
   permission: READ_WRITE
 }
