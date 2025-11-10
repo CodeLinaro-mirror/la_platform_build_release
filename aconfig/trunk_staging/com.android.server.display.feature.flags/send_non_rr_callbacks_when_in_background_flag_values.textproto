@@ -1,6 +1,0 @@
-flag_value {
-  package: "com.android.server.display.feature.flags"
-  name: "send_non_rr_callbacks_when_in_background"
-  state: ENABLED
-  permission: READ_WRITE
-}

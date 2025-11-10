@@ -1,5 +1,5 @@
 name: "RELEASE_SVN_MUSTANG"
-namespace: "android_UNKNOWN"
+namespace: "android_release"
 description: "Using this flag to set build SVN(Software Version Number) value for MUSTANG under VENDOR"
 value: {
   string_value: "00"
