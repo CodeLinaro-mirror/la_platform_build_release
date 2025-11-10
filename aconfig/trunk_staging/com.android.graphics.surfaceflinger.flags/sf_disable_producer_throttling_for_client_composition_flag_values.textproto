@@ -1,6 +1,0 @@
-flag_value {
-  package: "com.android.graphics.surfaceflinger.flags"
-  name: "sf_disable_producer_throttling_for_client_composition"
-  state: ENABLED
-  permission: READ_WRITE
-}
