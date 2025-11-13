@@ -1,6 +1,6 @@
 flag_value {
   package: "com.android.server.am"
-  name: "service_check_calling_pkg"
+  name: "log_zram_writeback_events"
   state: ENABLED
   permission: READ_WRITE
 }
