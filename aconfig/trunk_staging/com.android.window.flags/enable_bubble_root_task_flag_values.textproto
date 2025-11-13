@@ -1,6 +1,6 @@
 flag_value {
   package: "com.android.window.flags"
-  name: "bal_check_unpinned_activities"
+  name: "enable_bubble_root_task"
   state: ENABLED
   permission: READ_WRITE
 }
