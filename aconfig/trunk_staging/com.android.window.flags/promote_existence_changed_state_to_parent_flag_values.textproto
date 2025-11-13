@@ -1,6 +1,6 @@
 flag_value {
   package: "com.android.window.flags"
-  name: "enable_add_window_decoration_to_all_tasks"
+  name: "promote_existence_changed_state_to_parent"
   state: ENABLED
   permission: READ_WRITE
 }
