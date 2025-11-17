@@ -1,6 +1,6 @@
 flag_value {
   package: "com.android.window.flags"
-  name: "defer_resume_focus_in_non_focused_window"
+  name: "rank_task_layer_with_window_layout"
   state: ENABLED
   permission: READ_WRITE
 }
