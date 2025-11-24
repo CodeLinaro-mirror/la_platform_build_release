@@ -1,6 +1,0 @@
-flag_value {
-  package: "com.android.media.mediadrm.flags"
-  name: "deprecate_platform_mediadrm_securestop_apis"
-  state: ENABLED
-  permission: READ_WRITE
-}
