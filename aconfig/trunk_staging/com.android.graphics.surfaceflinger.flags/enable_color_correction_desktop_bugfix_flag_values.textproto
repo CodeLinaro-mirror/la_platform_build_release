@@ -1,6 +1,0 @@
-flag_value {
-  package: "com.android.graphics.surfaceflinger.flags"
-  name: "enable_color_correction_desktop_bugfix"
-  state: ENABLED
-  permission: READ_WRITE
-}
