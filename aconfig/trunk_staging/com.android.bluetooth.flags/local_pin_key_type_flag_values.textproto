@@ -1,6 +1,6 @@
 flag_value {
   package: "com.android.bluetooth.flags"
-  name: "skip_excess_name_discovery"
+  name: "local_pin_key_type"
   state: ENABLED
   permission: READ_WRITE
 }
