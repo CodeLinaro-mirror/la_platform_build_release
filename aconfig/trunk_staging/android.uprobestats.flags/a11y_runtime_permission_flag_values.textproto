@@ -1,6 +1,0 @@
-flag_value {
-  package: "android.uprobestats.flags"
-  name: "a11y_runtime_permission"
-  state: ENABLED
-  permission: READ_WRITE
-}

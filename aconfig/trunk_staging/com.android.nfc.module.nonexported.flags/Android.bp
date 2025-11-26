@@ -13,8 +13,8 @@
 // limitations under the License.
 
 aconfig_values {
-    name: "aconfig-values-platform_build_release-trunk_staging-com.android.graphics.egl.flags-all",
-    package: "com.android.graphics.egl.flags",
+    name: "aconfig-values-platform_build_release-trunk_staging-com.android.nfc.module.nonexported.flags-all",
+    package: "com.android.nfc.module.nonexported.flags",
     srcs: [
         "*_flag_values.textproto",
     ],

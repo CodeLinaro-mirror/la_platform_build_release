@@ -1,6 +1,6 @@
 flag_value {
   package: "com.android.window.flags"
-  name: "predictive_back_fix_ime_events_skip_back_dispatcher"
+  name: "assist_display_id_public"
   state: ENABLED
   permission: READ_WRITE
 }
