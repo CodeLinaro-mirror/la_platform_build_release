@@ -1,6 +1,6 @@
 flag_value {
   package: "com.android.bluetooth.flags"
-  name: "skip_excess_name_discovery"
+  name: "explicit_uuid_transport_api"
   state: ENABLED
-  permission: READ_ONLY
+  permission: READ_WRITE
 }

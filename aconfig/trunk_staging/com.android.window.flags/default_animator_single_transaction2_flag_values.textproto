@@ -1,6 +1,6 @@
 flag_value {
   package: "com.android.window.flags"
-  name: "always_seq_id_layout"
+  name: "default_animator_single_transaction2"
   state: ENABLED
   permission: READ_WRITE
 }
