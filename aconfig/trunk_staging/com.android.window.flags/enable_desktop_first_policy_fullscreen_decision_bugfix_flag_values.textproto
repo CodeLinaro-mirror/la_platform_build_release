@@ -1,6 +1,6 @@
 flag_value {
   package: "com.android.window.flags"
-  name: "close_split_task_instead_of_moving_to_back"
+  name: "enable_desktop_first_policy_fullscreen_decision_bugfix"
   state: ENABLED
   permission: READ_WRITE
 }

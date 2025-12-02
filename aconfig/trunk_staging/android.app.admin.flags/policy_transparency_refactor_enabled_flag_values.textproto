@@ -1,6 +1,6 @@
 flag_value {
   package: "android.app.admin.flags"
-  name: "multi_user_management_user_provisioning"
+  name: "policy_transparency_refactor_enabled"
   state: ENABLED
   permission: READ_WRITE
 }
