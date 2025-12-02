@@ -1,6 +1,6 @@
 flag_value {
   package: "com.android.window.flags"
-  name: "default_animator_single_transaction2"
+  name: "remove_legacy_orientation_report"
   state: ENABLED
   permission: READ_WRITE
 }
