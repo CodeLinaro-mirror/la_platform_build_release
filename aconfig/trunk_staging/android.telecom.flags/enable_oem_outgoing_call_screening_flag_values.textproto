@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.telecom.flags"
+  name: "enable_oem_outgoing_call_screening"
+  state: ENABLED
+  permission: READ_WRITE
+}

@@ -1,6 +1,0 @@
-flag_value {
-  package: "com.android.server.deviceidle"
-  name: "stop_power_save_temp_whitelist_broadcast"
-  state: ENABLED
-  permission: READ_WRITE
-}

@@ -1,4 +1,4 @@
 name: "RELEASE_PACKAGE_WEBVIEW_VERSION"
 value {
-  string_value: "140.0.7339.4"
+  string_value: "142.0.7418.5"
 }
