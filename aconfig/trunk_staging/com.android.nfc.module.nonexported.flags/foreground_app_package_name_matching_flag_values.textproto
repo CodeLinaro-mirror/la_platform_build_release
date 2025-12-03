@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.nfc.module.nonexported.flags"
+  name: "foreground_app_package_name_matching"
+  state: ENABLED
+  permission: READ_WRITE
+}
