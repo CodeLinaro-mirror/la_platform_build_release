@@ -32,11 +32,11 @@ per-file aconfig/?p??/*,aconfig/?p??/*/*=zoeyhsieh@google.com # For Nextfood pro
 per-file aconfig/*/*,aconfig/*/*/*=opg@google.com
 per-file aconfig/*/*,aconfig/*/*/*=tejaswiy@google.com
 
-per-file flag_values/*/RELEASE_BUILD_AFDO_PROFILE_VERSION.textproto = file:platform/prebuilts/clang/host/linux-x86:/OWNERS # Android LLVM Toolchain
-per-file flag_values/trunk*/RELEASE_BUILD_CLANG_SHORT_VERSION.textproto = file:platform/prebuilts/clang/host/linux-x86:/OWNERS # Android LLVM Toolchain
-per-file flag_values/trunk*/RELEASE_BUILD_CLANG_VERSION.textproto = file:platform/prebuilts/clang/host/linux-x86:/OWNERS # Android LLVM Toolchain
+per-file flag_values/*/RELEASE_BUILD_AFDO_PROFILE_VERSION.textproto=file:platform/prebuilts/clang/host/linux-x86:/OWNERS # Android LLVM Toolchain
+per-file flag_values/trunk*/RELEASE_BUILD_CLANG_SHORT_VERSION.textproto=file:platform/prebuilts/clang/host/linux-x86:/OWNERS # Android LLVM Toolchain
+per-file flag_values/trunk*/RELEASE_BUILD_CLANG_VERSION.textproto=file:platform/prebuilts/clang/host/linux-x86:/OWNERS # Android LLVM Toolchain
 
-include /SDK_OWNERS
+include platform/build/release:main:/SDK_OWNERS
 
 jham@google.com # emergency backup #{LAST_RESORT_SUGGESTION}
 amithds@google.com # emergency backup #{LAST_RESORT_SUGGESTION}
