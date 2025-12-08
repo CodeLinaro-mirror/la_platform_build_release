@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.google.android.systemui"
+  name: "enable_whiskey"
+  state: ENABLED
+  permission: READ_ONLY
+}
