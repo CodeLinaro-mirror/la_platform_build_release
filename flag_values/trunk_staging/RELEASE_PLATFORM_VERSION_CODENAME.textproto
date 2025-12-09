@@ -1,4 +1,4 @@
-name:  "RELEASE_PLATFORM_VERSION_CODENAME"
-value:  {
-  string_value:  "DEV"
+name: "RELEASE_PLATFORM_VERSION_CODENAME"
+value: {
+  string_value: "Baklava"
 }
