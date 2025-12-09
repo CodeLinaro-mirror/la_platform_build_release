@@ -1,6 +1,6 @@
 flag_value {
   package: "android.telecom.flags"
-  name: "enable_oem_outgoing_call_screening"
+  name: "telecom_mainline_api"
   state: ENABLED
   permission: READ_WRITE
 }
