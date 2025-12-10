@@ -1,0 +1,4 @@
+name: "RELEASE_ENABLE_MTE_ALL_BUILDS"
+value {
+  bool_value: true
+}
