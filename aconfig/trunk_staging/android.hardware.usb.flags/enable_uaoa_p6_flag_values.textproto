@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.hardware.usb.flags"
+  name: "enable_uaoa_p6"
+  state: ENABLED
+  permission: READ_WRITE
+}
