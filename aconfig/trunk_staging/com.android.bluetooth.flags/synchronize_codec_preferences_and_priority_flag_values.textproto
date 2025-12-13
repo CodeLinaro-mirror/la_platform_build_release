@@ -1,6 +1,6 @@
 flag_value {
   package: "com.android.bluetooth.flags"
-  name: "increase_contact_image_resolution"
+  name: "synchronize_codec_preferences_and_priority"
   state: ENABLED
   permission: READ_WRITE
 }
