@@ -1,6 +1,0 @@
-{
-  "env_default": {
-    "USE_REWRAPPER": "true",
-    "SOONG_NINJA": "siso"
-  }
-}
