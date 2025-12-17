@@ -1,6 +1,6 @@
 flag_value {
   package: "com.android.bluetooth.flags"
-  name: "add_rssi_and_power_in_distance_measurement_result"
+  name: "prevent_improper_closure_of_in_use_scn"
   state: ENABLED
   permission: READ_WRITE
 }

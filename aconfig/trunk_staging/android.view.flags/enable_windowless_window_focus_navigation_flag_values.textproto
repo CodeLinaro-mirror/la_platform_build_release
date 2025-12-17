@@ -1,6 +1,6 @@
 flag_value {
   package: "android.view.flags"
-  name: "toolkit_disable_category_on_mrr"
+  name: "enable_windowless_window_focus_navigation"
   state: ENABLED
   permission: READ_WRITE
 }
