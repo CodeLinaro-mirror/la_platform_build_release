@@ -1,4 +1,0 @@
-name: "RELEASE_BUILD_EXECUTE_ONLY_MEMORY"
-value {
-  bool_value: true
-}
