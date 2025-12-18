@@ -1,6 +1,6 @@
 flag_value {
   package: "com.android.bluetooth.flags"
-  name: "adm_centralize_active_device_handling"
+  name: "fix_sco_type_mask_check"
   state: ENABLED
   permission: READ_WRITE
 }

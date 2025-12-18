@@ -1,6 +1,6 @@
 flag_value {
   package: "com.android.wifi.flags"
-  name: "wep_disabled_in_apm"
+  name: "multi_peer_aware_datapath"
   state: ENABLED
-  permission: READ_ONLY
+  permission: READ_WRITE
 }
