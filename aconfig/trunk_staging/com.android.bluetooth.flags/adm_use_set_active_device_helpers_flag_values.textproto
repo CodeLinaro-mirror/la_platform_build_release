@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.bluetooth.flags"
+  name: "adm_use_set_active_device_helpers"
+  state: ENABLED
+  permission: READ_WRITE
+}
