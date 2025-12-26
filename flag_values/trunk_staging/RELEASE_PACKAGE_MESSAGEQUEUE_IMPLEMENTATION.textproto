@@ -1,4 +1,4 @@
 name: "RELEASE_PACKAGE_MESSAGEQUEUE_IMPLEMENTATION"
 value {
-  string_value: "CombinedMessageQueue/*.java"
+  string_value: "CombinedDeliMessageQueue/*.java"
 }
