@@ -1,6 +1,0 @@
-flag_value {
-  package: "android.net.platform.flags"
-  name: "clear_app_exclusion_list_upon_vpn_install_uninstall"
-  state: ENABLED
-  permission: READ_WRITE
-}
