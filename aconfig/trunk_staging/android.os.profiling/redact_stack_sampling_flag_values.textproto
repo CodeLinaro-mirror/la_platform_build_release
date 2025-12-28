@@ -1,6 +1,6 @@
 flag_value {
   package: "android.os.profiling"
-  name: "oom_trigger_experiment_do_not_release"
+  name: "redact_stack_sampling"
   state: ENABLED
   permission: READ_WRITE
 }
