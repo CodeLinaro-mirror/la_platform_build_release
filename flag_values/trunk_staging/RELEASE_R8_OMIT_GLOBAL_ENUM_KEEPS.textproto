@@ -1,0 +1,4 @@
+name: "RELEASE_R8_OMIT_GLOBAL_ENUM_KEEPS"
+value {
+  bool_value: true
+}
