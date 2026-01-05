@@ -1,6 +1,0 @@
-flag_value {
-  package: "android.app"
-  name: "sharedpreferences_skip_fsync"
-  state: ENABLED
-  permission: READ_WRITE
-}
