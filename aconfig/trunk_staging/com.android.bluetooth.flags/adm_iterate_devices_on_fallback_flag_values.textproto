@@ -1,6 +1,0 @@
-flag_value {
-  package: "com.android.bluetooth.flags"
-  name: "adm_iterate_devices_on_fallback"
-  state: ENABLED
-  permission: READ_WRITE
-}
