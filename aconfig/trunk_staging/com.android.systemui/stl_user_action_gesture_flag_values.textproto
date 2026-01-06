@@ -1,6 +1,0 @@
-flag_value {
-  package: "com.android.systemui"
-  name: "stl_user_action_gesture"
-  state: ENABLED
-  permission: READ_WRITE
-}
