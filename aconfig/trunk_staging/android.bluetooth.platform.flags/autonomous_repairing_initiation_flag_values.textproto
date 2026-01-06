@@ -1,6 +1,6 @@
 flag_value {
   package: "android.bluetooth.platform.flags"
-  name: "bluetooth_pairing_hardening"
+  name: "autonomous_repairing_initiation"
   state: ENABLED
   permission: READ_WRITE
 }
