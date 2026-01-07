@@ -1,6 +1,6 @@
 flag_value {
   package: "com.android.graphics.surfaceflinger.flags"
-  name: "set_power_mode_async"
+  name: "color_transform_translation"
   state: ENABLED
   permission: READ_WRITE
 }
