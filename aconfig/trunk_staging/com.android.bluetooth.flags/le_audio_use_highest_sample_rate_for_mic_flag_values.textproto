@@ -1,6 +1,6 @@
 flag_value {
   package: "com.android.bluetooth.flags"
-  name: "adm_iterate_devices_on_fallback"
+  name: "le_audio_use_highest_sample_rate_for_mic"
   state: ENABLED
   permission: READ_WRITE
 }

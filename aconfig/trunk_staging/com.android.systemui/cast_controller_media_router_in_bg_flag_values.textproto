@@ -1,6 +1,6 @@
 flag_value {
   package: "com.android.systemui"
-  name: "animation_library_atomic_listeners"
+  name: "cast_controller_media_router_in_bg"
   state: ENABLED
   permission: READ_WRITE
 }
