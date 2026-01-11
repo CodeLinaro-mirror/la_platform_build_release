@@ -1,6 +1,6 @@
 flag_value {
   package: "com.android.window.flags"
-  name: "camera_compat_unify_camera_policies"
+  name: "improve_occlusion_calculation"
   state: ENABLED
   permission: READ_WRITE
 }
