@@ -1,6 +1,0 @@
-flag_value {
-  package: "android.content.pm"
-  name: "enable_query_domain_verification"
-  state: ENABLED
-  permission: READ_WRITE
-}
