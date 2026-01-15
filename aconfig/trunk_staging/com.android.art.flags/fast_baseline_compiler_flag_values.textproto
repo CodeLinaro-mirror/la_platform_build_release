@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.art.flags"
+  name: "fast_baseline_compiler"
+  state: ENABLED
+  permission: READ_ONLY
+}
