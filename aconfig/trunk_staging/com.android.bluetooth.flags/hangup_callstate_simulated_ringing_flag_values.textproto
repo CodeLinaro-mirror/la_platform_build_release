@@ -1,6 +1,6 @@
 flag_value {
   package: "com.android.bluetooth.flags"
-  name: "leaudio_game_detector"
+  name: "hangup_callstate_simulated_ringing"
   state: ENABLED
   permission: READ_WRITE
 }
