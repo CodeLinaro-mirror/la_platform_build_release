@@ -1,6 +1,6 @@
 flag_value {
   package: "com.android.art.flags"
-  name: "fast_baseline_compiler"
+  name: "enforce_permitted_subclasses_checks"
   state: ENABLED
   permission: READ_ONLY
 }
