@@ -1,6 +1,6 @@
 flag_value {
   package: "android.content.pm"
-  name: "enable_query_domain_verification"
+  name: "app_lock_shortcut_removal"
   state: ENABLED
   permission: READ_WRITE
 }

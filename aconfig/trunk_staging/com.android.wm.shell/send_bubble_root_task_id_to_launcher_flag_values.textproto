@@ -1,6 +1,6 @@
 flag_value {
   package: "com.android.wm.shell"
-  name: "bug_dont_remove_task_bubble"
+  name: "send_bubble_root_task_id_to_launcher"
   state: ENABLED
   permission: READ_WRITE
 }
