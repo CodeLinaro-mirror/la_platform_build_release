@@ -1,4 +1,0 @@
-name: "RELEASE_SEPOLICY_RESTRICT_KERNEL_KEYRING_SEARCH"
-value {
-  bool_value: true
-}
