@@ -1,6 +1,6 @@
 flag_value {
   package: "android.app"
-  name: "nm_summarization_all"
+  name: "backup_restore_logging"
   state: ENABLED
   permission: READ_WRITE
 }
