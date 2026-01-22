@@ -1,6 +1,0 @@
-flag_value {
-  package: "com.android.os.statsd.flags"
-  name: "logging_control_sync_in_background"
-  state: ENABLED
-  permission: READ_WRITE
-}
