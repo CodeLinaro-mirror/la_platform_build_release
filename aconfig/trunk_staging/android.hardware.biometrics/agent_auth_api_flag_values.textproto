@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.hardware.biometrics"
+  name: "agent_auth_api"
+  state: ENABLED
+  permission: READ_WRITE
+}
