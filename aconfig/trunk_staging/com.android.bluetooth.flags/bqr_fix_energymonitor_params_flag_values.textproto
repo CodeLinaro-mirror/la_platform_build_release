@@ -1,6 +1,6 @@
 flag_value {
   package: "com.android.bluetooth.flags"
-  name: "bluetooth_system_server_messenger"
+  name: "bqr_fix_energymonitor_params"
   state: ENABLED
   permission: READ_WRITE
 }
