@@ -1,5 +1,0 @@
-name: "RELEASE_PIXEL_WATCH_SYSTEM_MEMCG_MEMORY_LIMITS"
-namespace: "watch_software_performance"
-description: "Enables system_server Memcg high memory limit task profiles for Pixel Watches."
-workflow: LAUNCH
-containers: "system"
