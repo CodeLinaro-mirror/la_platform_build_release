@@ -1,6 +1,0 @@
-flag_value {
-  package: "com.android.bluetooth.flags"
-  name: "irk_scanning_bond_check_update"
-  state: ENABLED
-  permission: READ_WRITE
-}
