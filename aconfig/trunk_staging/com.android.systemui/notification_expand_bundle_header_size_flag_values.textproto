@@ -1,6 +1,6 @@
 flag_value {
   package: "com.android.systemui"
-  name: "sign_out_button_on_keyguard_status_bar"
+  name: "notification_expand_bundle_header_size"
   state: ENABLED
   permission: READ_WRITE
 }

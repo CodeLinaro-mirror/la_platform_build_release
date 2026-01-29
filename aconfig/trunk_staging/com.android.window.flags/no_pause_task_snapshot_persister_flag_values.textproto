@@ -1,6 +1,6 @@
 flag_value {
   package: "com.android.window.flags"
-  name: "enable_game_controls_entry_in_handle_menu"
+  name: "no_pause_task_snapshot_persister"
   state: ENABLED
   permission: READ_WRITE
 }
