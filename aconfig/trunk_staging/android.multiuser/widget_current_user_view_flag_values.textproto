@@ -1,6 +1,0 @@
-flag_value {
-  package: "android.multiuser"
-  name: "widget_current_user_view"
-  state: ENABLED
-  permission: READ_WRITE
-}
