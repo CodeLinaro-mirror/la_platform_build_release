@@ -1,6 +1,6 @@
 flag_value {
   package: "com.android.systemui"
-  name: "cast_controller_media_router_in_bg"
+  name: "enable_note_hsum_dev_option_fix"
   state: ENABLED
   permission: READ_WRITE
 }

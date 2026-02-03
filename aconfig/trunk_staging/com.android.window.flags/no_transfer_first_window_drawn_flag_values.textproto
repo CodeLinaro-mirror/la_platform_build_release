@@ -1,6 +1,6 @@
 flag_value {
   package: "com.android.window.flags"
-  name: "enable_desktop_swipe_back_minimize_animation_bugfix"
+  name: "no_transfer_first_window_drawn"
   state: ENABLED
   permission: READ_WRITE
 }
