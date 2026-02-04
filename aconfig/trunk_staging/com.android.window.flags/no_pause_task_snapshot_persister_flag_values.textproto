@@ -1,6 +1,6 @@
 flag_value {
   package: "com.android.window.flags"
-  name: "ignore_corner_radius_and_shadows"
+  name: "no_pause_task_snapshot_persister"
   state: ENABLED
-  permission: READ_ONLY
+  permission: READ_WRITE
 }
