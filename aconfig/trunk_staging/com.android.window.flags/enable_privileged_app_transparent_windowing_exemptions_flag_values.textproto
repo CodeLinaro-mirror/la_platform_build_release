@@ -1,6 +1,6 @@
 flag_value {
   package: "com.android.window.flags"
-  name: "no_pause_task_snapshot_persister"
+  name: "enable_privileged_app_transparent_windowing_exemptions"
   state: ENABLED
   permission: READ_WRITE
 }
