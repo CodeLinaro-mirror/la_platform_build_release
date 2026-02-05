@@ -1,6 +1,6 @@
 flag_value {
   package: "com.android.input.flags"
-  name: "fix_action_up_resampling"
+  name: "enable_anr_warning_callback_input_dispatcher"
   state: ENABLED
   permission: READ_WRITE
 }

@@ -1,4 +1,0 @@
-name: "RELEASE_AISEAL_WITH_APPSEARCH"
-value {
-  bool_value: true
-}

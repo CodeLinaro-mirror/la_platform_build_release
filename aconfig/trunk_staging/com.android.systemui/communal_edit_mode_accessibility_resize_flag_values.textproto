@@ -1,6 +1,0 @@
-flag_value {
-  package: "com.android.systemui"
-  name: "communal_edit_mode_accessibility_resize"
-  state: ENABLED
-  permission: READ_WRITE
-}
