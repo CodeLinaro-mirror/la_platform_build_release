@@ -1,6 +1,6 @@
 flag_value {
   package: "com.android.systemui"
-  name: "permission_helper_inline_ui_rich_ongoing"
+  name: "extend_huns_pinned_by_user"
   state: ENABLED
   permission: READ_WRITE
 }
