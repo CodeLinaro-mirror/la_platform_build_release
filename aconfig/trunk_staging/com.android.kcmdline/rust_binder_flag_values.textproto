@@ -1,6 +1,6 @@
 flag_value {
-  package: "android.os"
-  name: "enable_angle_for_games"
+  package: "com.android.kcmdline"
+  name: "rust_binder"
   state: ENABLED
   permission: READ_WRITE
 }
