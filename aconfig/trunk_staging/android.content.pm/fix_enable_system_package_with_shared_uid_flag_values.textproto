@@ -1,6 +1,0 @@
-flag_value {
-  package: "android.content.pm"
-  name: "fix_enable_system_package_with_shared_uid"
-  state: ENABLED
-  permission: READ_WRITE
-}
