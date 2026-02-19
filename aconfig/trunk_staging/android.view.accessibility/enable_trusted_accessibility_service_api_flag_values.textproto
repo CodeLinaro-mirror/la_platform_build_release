@@ -1,6 +1,0 @@
-flag_value {
-  package: "android.view.accessibility"
-  name: "enable_trusted_accessibility_service_api"
-  state: ENABLED
-  permission: READ_WRITE
-}
