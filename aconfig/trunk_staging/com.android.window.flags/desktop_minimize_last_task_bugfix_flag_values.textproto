@@ -1,6 +1,6 @@
 flag_value {
   package: "com.android.window.flags"
-  name: "enable_task_positioner_refactor_clank"
+  name: "desktop_minimize_last_task_bugfix"
   state: ENABLED
   permission: READ_WRITE
 }
