@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.content.pm"
+  name: "dump_apk_in_apex_manager"
+  state: ENABLED
+  permission: READ_WRITE
+}
