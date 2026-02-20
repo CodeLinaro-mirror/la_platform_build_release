@@ -1,6 +1,0 @@
-flag_value {
-  package: "com.android.internal.telephony.flags"
-  name: "skip_private_network_for_telecom_account"
-  state: ENABLED
-  permission: READ_WRITE
-}
