@@ -1,6 +1,6 @@
 flag_value {
   package: "com.android.systemui"
-  name: "low_light_sensor_while_screen_on"
+  name: "qs_edit_mode_focus_fixes"
   state: ENABLED
   permission: READ_WRITE
 }
