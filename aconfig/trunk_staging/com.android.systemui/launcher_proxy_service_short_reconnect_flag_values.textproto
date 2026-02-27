@@ -1,6 +1,6 @@
 flag_value {
   package: "com.android.systemui"
-  name: "ongoing_activity_chips_on_dream"
+  name: "launcher_proxy_service_short_reconnect"
   state: ENABLED
   permission: READ_WRITE
 }
