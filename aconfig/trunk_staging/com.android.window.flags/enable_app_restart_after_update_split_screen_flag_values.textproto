@@ -1,6 +1,6 @@
 flag_value {
   package: "com.android.window.flags"
-  name: "desktop_minimize_last_task_bugfix"
+  name: "enable_app_restart_after_update_split_screen"
   state: ENABLED
   permission: READ_WRITE
 }
