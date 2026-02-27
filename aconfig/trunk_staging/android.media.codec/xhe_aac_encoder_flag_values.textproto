@@ -1,6 +1,0 @@
-flag_value {
-  package: "android.media.codec"
-  name: "xhe_aac_encoder"
-  state: ENABLED
-  permission: READ_WRITE
-}
