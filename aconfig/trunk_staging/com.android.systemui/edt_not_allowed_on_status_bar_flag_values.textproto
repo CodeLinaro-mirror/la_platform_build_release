@@ -1,6 +1,6 @@
 flag_value {
   package: "com.android.systemui"
-  name: "screenshot_action_dismiss_system_windows"
+  name: "edt_not_allowed_on_status_bar"
   state: ENABLED
   permission: READ_WRITE
 }
