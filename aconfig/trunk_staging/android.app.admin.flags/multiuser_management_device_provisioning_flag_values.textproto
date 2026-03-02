@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.app.admin.flags"
+  name: "multiuser_management_device_provisioning"
+  state: ENABLED
+  permission: READ_WRITE
+}
