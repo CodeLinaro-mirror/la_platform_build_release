@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.launcher3"
+  name: "fix_drop_target_accessibility_input_type"
+  state: ENABLED
+  permission: READ_WRITE
+}

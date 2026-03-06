@@ -1,6 +1,6 @@
 flag_value {
   package: "com.android.window.flags"
-  name: "enable_fullscreen_window_controls"
+  name: "sync_before_enabling_screen"
   state: ENABLED
   permission: READ_WRITE
 }
