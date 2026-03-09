@@ -1,0 +1,4 @@
+name: "RELEASE_ART_NOPRELOAD_CLASSES_IN_PROFILE"
+value {
+  bool_value: true
+}
