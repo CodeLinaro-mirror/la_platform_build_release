@@ -1,6 +1,0 @@
-flag_value {
-  package: "com.android.providers.media.flags"
-  name: "enable_photopicker_offline_banners"
-  state: ENABLED
-  permission: READ_WRITE
-}
