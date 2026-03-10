@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.internal.telecom.flags"
+  name: "fix_transactional_call_sequencing_future"
+  state: ENABLED
+  permission: READ_WRITE
+}
