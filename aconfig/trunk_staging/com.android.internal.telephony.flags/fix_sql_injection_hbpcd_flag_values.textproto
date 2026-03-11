@@ -1,6 +1,6 @@
 flag_value {
   package: "com.android.internal.telephony.flags"
-  name: "redact_generic_otp_sms"
+  name: "fix_sql_injection_hbpcd"
   state: ENABLED
   permission: READ_WRITE
 }
