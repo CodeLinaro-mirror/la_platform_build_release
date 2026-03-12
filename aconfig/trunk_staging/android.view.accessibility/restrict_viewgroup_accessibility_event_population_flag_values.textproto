@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.view.accessibility"
+  name: "restrict_viewgroup_accessibility_event_population"
+  state: ENABLED
+  permission: READ_WRITE
+}
