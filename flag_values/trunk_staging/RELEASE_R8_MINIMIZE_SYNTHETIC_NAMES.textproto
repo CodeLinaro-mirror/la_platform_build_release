@@ -1,0 +1,4 @@
+name: "RELEASE_R8_MINIMIZE_SYNTHETIC_NAMES"
+value {
+  bool_value: true
+}
