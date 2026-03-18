@@ -1,6 +1,0 @@
-flag_value {
-  package: "com.android.bluetooth.flags"
-  name: "early_reject_unauthorized_scans"
-  state: ENABLED
-  permission: READ_WRITE
-}
