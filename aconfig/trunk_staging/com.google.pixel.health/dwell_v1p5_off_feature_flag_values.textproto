@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.google.pixel.health"
+  name: "dwell_v1p5_off_feature"
+  state: ENABLED
+  permission: READ_WRITE
+}
