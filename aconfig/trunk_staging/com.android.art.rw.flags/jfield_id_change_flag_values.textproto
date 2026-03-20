@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.art.rw.flags"
+  name: "jfield_id_change"
+  state: ENABLED
+  permission: READ_WRITE
+}

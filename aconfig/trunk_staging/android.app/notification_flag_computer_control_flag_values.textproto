@@ -1,6 +1,6 @@
 flag_value {
   package: "android.app"
-  name: "bridged_notifications"
+  name: "notification_flag_computer_control"
   state: ENABLED
   permission: READ_WRITE
 }
