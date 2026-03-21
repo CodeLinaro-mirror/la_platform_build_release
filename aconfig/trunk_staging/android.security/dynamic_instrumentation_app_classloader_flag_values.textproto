@@ -1,6 +1,6 @@
 flag_value {
   package: "android.security"
-  name: "app_lock_core"
+  name: "dynamic_instrumentation_app_classloader"
   state: ENABLED
   permission: READ_WRITE
 }

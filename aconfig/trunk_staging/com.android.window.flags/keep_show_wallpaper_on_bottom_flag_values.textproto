@@ -1,6 +1,6 @@
 flag_value {
   package: "com.android.window.flags"
-  name: "enable_is_task_move_allowed_on_display_api"
+  name: "keep_show_wallpaper_on_bottom"
   state: ENABLED
   permission: READ_WRITE
 }
