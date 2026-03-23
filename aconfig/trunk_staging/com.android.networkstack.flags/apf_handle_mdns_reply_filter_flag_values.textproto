@@ -1,6 +1,0 @@
-flag_value {
-  package: "com.android.networkstack.flags"
-  name: "apf_handle_mdns_reply_filter"
-  state: ENABLED
-  permission: READ_WRITE
-}
