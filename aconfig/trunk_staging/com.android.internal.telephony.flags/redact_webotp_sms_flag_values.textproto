@@ -1,6 +1,0 @@
-flag_value {
-  package: "com.android.internal.telephony.flags"
-  name: "redact_webotp_sms"
-  state: ENABLED
-  permission: READ_WRITE
-}
