@@ -1,6 +1,0 @@
-flag_value {
-  package: "com.android.server.feature.flags"
-  name: "enable_wtf_exception_dropbox_carveout"
-  state: ENABLED
-  permission: READ_WRITE
-}
