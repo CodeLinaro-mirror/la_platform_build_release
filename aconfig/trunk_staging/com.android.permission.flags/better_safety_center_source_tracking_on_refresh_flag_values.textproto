@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.permission.flags"
+  name: "better_safety_center_source_tracking_on_refresh"
+  state: ENABLED
+  permission: READ_WRITE
+}
