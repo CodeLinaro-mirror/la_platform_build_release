@@ -1,6 +1,6 @@
 flag_value {
   package: "android.app.admin.flags"
-  name: "policy_streamlining_screen_capture_api"
+  name: "multiuser_management_user_provisioning"
   state: ENABLED
   permission: READ_WRITE
 }

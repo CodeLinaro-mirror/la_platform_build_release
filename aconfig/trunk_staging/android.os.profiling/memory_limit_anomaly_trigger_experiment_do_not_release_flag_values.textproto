@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.os.profiling"
+  name: "memory_limit_anomaly_trigger_experiment_do_not_release"
+  state: ENABLED
+  permission: READ_WRITE
+}

@@ -1,6 +1,6 @@
 flag_value {
   package: "android.os"
-  name: "material_colors_2026_03"
+  name: "disallow_cellular_null_ciphers_restriction"
   state: ENABLED
   permission: READ_WRITE
 }
