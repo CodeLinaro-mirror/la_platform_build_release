@@ -1,3 +1,0 @@
-name: "cs2a"
-inherits: "cp2a"
-aconfig_value_sets: "aconfig_value_set-platform_build_release_sdv-cs2a"
