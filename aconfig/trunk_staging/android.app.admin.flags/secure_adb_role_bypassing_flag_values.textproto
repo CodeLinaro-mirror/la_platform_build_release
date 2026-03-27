@@ -1,6 +1,0 @@
-flag_value {
-  package: "android.app.admin.flags"
-  name: "secure_adb_role_bypassing"
-  state: ENABLED
-  permission: READ_WRITE
-}
