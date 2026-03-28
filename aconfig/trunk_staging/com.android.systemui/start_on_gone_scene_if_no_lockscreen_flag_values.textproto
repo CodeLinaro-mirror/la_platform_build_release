@@ -1,6 +1,6 @@
 flag_value {
   package: "com.android.systemui"
-  name: "fix_main_thread_blocking_on_first_unlock"
+  name: "start_on_gone_scene_if_no_lockscreen"
   state: ENABLED
   permission: READ_WRITE
 }
