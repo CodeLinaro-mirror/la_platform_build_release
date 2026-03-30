@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.window.flags"
+  name: "return_windowless_root_views_in_wmglobal_getwindowview"
+  state: ENABLED
+  permission: READ_WRITE
+}
