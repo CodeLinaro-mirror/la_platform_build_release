@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.app.admin.flags"
+  name: "common_criteria_mode_coexistence"
+  state: ENABLED
+  permission: READ_WRITE
+}
