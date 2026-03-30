@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.hardware.usb.flags"
+  name: "enable_persistent_usb_device_permissions"
+  state: ENABLED
+  permission: READ_WRITE
+}
