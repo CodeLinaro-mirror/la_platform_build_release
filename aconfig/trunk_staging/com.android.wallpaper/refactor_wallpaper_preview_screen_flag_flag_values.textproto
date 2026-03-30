@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.wallpaper"
+  name: "refactor_wallpaper_preview_screen_flag"
+  state: ENABLED
+  permission: READ_WRITE
+}
