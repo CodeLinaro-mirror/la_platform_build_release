@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.settings.flags"
+  name: "skip_onboarding_when_same_set"
+  state: ENABLED
+  permission: READ_WRITE
+}
