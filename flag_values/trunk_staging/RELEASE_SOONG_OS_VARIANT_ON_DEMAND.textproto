@@ -1,4 +1,0 @@
-name: "RELEASE_SOONG_OS_VARIANT_ON_DEMAND"
-value {
-  bool_value: true
-}
