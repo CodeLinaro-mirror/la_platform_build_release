@@ -1,6 +1,6 @@
 flag_value {
   package: "com.android.bluetooth.flags"
-  name: "non_ctkd_dual_mode_pairing"
+  name: "btsec_check_implicit_encryption_downgrade"
   state: ENABLED
   permission: READ_WRITE
 }
