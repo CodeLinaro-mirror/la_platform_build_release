@@ -1,4 +1,4 @@
 name: "RELEASE_KERNEL_CHEETAH_DIR"
 value: {
-  string_value: "device/google/pantah-kernels/6.12/trunk-14968517"
+  string_value: "device/google/pantah-kernels/6.12/trunk-15080339"
 }

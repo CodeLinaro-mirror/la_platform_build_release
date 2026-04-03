@@ -1,6 +1,0 @@
-flag_value {
-  package: "com.android.systemui"
-  name: "fix_main_thread_blocking_on_first_unlock"
-  state: ENABLED
-  permission: READ_WRITE
-}
