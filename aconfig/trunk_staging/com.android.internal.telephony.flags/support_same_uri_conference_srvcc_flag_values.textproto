@@ -1,6 +1,0 @@
-flag_value {
-  package: "com.android.internal.telephony.flags"
-  name: "support_same_uri_conference_srvcc"
-  state: ENABLED
-  permission: READ_WRITE
-}

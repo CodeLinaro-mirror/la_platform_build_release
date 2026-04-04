@@ -1,6 +1,0 @@
-flag_value {
-  package: "perfetto.flags"
-  name: "use_pcre2"
-  state: ENABLED
-  permission: READ_ONLY
-}
