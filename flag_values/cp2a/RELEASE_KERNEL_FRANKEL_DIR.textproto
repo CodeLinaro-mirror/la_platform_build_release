@@ -1,4 +1,4 @@
 name: "RELEASE_KERNEL_FRANKEL_DIR"
-value {
-  string_value: "device/google/laguna-kernels/6.6/trunk-15114650/muzel"
+value: {
+  string_value: "device/google/laguna-kernels/6.6/26Q2-15168517/muzel"
 }
