@@ -1,6 +1,6 @@
 flag_value {
   package: "com.android.window.flags"
-  name: "add_bg_color_for_transparent_bubbles"
+  name: "idempotent_wct_resolution"
   state: ENABLED
   permission: READ_ONLY
 }
