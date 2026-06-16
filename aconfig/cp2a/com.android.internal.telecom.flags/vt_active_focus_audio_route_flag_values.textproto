@@ -1,0 +1,9 @@
+# Copyright (c) Qualcomm Technologies, Inc. and/or its subsidiaries.
+# SPDX-License-Identifier: BSD-3-Clause-Clear
+
+flag_value {
+  package: "com.android.internal.telecom.flags"
+  name: "vt_active_focus_audio_route"
+  state: ENABLED
+  permission: READ_ONLY
+}
